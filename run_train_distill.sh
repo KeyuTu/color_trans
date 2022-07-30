@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=$1 python main_eposide_distill.py --method $2 --dataset office_home --source Real --target Clipart --net $3 --save_check 

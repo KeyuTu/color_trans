@@ -1,0 +1,1710 @@
+Time is Fri Jul 22 17:35:06 CST 2022
+Directory is /ghome/tuky
+This job runs on following nodes:
+Node:G104
+Gpus:G104-gpu3
+CUDA_VISIBLE_DEVICES:3
+Dataset multi Source real Target clipart Labeled num perclass 3 Network resnet34
+126 classes in this dataset
+S real T clipart Train Ep: 0 lr0.01 	 Loss Classification: 5.337730 Loss T 0.468510 Method MME
+
+S real T clipart Train Ep: 100 lr0.009925650290240803 	 Loss Classification: 1.904922 Loss T 0.277885 Method MME
+
+S real T clipart Train Ep: 200 lr0.009852577760521605 	 Loss Classification: 1.337909 Loss T 0.166685 Method MME
+
+S real T clipart Train Ep: 300 lr0.009780748269686728 	 Loss Classification: 1.045992 Loss T 0.188758 Method MME
+
+S real T clipart Train Ep: 400 lr0.009710128909124701 	 Loss Classification: 1.086722 Loss T 0.165591 Method MME
+
+S real T clipart Train Ep: 500 lr0.00964068794694323 	 Loss Classification: 0.841833 Loss T 0.162854 Method MME
+
+acc_ori: 59.2629, acc_ifsl: 0.8913, acc_ifsl: 58.4044, acc_fixed: 59.2629, 
+Accuracy_ori: 10838, Accuracy_ifsl: 163, Accuracy_fuse: 10681, Accuracy_fixed: 10838, size: 18288, 
+acc_ori: 60.5556, acc_ifsl: 0.5556, acc_ifsl: 59.7222, acc_fixed: 60.5556, 
+Accuracy_ori: 218, Accuracy_ifsl: 2, Accuracy_fuse: 215, Accuracy_fixed: 218, size: 360, 
+current acc test 59.262905 current acc val 60.555556
+best acc test 59.262905 best acc val 60.555556
+saving model
+S real T clipart Train Ep: 600 lr0.00957239477517603 	 Loss Classification: 0.620742 Loss T 0.128162 Method MME
+
+S real T clipart Train Ep: 700 lr0.009505219859830012 	 Loss Classification: 0.757395 Loss T 0.112244 Method MME
+
+S real T clipart Train Ep: 800 lr0.009439134693595126 	 Loss Classification: 0.488815 Loss T 0.122993 Method MME
+
+S real T clipart Train Ep: 900 lr0.009374111751051751 	 Loss Classification: 1.024431 Loss T 0.137530 Method MME
+
+S real T clipart Train Ep: 1000 lr0.009310124446222227 	 Loss Classification: 0.847718 Loss T 0.126686 Method MME
+
+acc_ori: 64.7255, acc_ifsl: 1.0553, acc_ifsl: 63.8342, acc_fixed: 64.7255, 
+Accuracy_ori: 11837, Accuracy_ifsl: 193, Accuracy_fuse: 11674, Accuracy_fixed: 11837, size: 18288, 
+acc_ori: 65.2778, acc_ifsl: 1.3889, acc_ifsl: 64.4444, acc_fixed: 65.2778, 
+Accuracy_ori: 235, Accuracy_ifsl: 5, Accuracy_fuse: 232, Accuracy_fixed: 235, size: 360, 
+current acc test 64.725503 current acc val 65.277778
+best acc test 64.725503 best acc val 65.277778
+saving model
+S real T clipart Train Ep: 1100 lr0.00924714709232377 	 Loss Classification: 0.679593 Loss T 0.138599 Method MME
+
+S real T clipart Train Ep: 1200 lr0.009185154863590003 	 Loss Classification: 0.800725 Loss T 0.119694 Method MME
+
+S real T clipart Train Ep: 1300 lr0.00912412375903735 	 Loss Classification: 1.306891 Loss T 0.088632 Method MME
+
+S real T clipart Train Ep: 1400 lr0.009064030568061049 	 Loss Classification: 0.444260 Loss T 0.115116 Method MME
+
+S real T clipart Train Ep: 1500 lr0.009004852837753237 	 Loss Classification: 0.323563 Loss T 0.106759 Method MME
+
+acc_ori: 67.0549, acc_ifsl: 1.3725, acc_ifsl: 66.5628, acc_fixed: 67.0549, 
+Accuracy_ori: 12263, Accuracy_ifsl: 251, Accuracy_fuse: 12173, Accuracy_fixed: 12263, size: 18288, 
+acc_ori: 69.1667, acc_ifsl: 0.5556, acc_ifsl: 66.6667, acc_fixed: 69.1667, 
+Accuracy_ori: 249, Accuracy_ifsl: 2, Accuracy_fuse: 240, Accuracy_fixed: 249, size: 360, 
+current acc test 67.054899 current acc val 69.166667
+best acc test 67.054899 best acc val 69.166667
+saving model
+S real T clipart Train Ep: 1600 lr0.008946568841842816 	 Loss Classification: 0.947730 Loss T 0.118914 Method MME
+
+S real T clipart Train Ep: 1700 lr0.008889157551163433 	 Loss Classification: 0.666937 Loss T 0.120961 Method MME
+
+S real T clipart Train Ep: 1800 lr0.008832598605562044 	 Loss Classification: 0.309439 Loss T 0.111111 Method MME
+
+S real T clipart Train Ep: 1900 lr0.008776872287166303 	 Loss Classification: 0.599055 Loss T 0.127900 Method MME
+
+S real T clipart Train Ep: 2000 lr0.008721959494934213 	 Loss Classification: 0.305597 Loss T 0.100273 Method MME
+
+acc_ori: 67.5087, acc_ifsl: 1.1538, acc_ifsl: 66.9674, acc_fixed: 67.5087, 
+Accuracy_ori: 12346, Accuracy_ifsl: 211, Accuracy_fuse: 12247, Accuracy_fixed: 12346, size: 18288, 
+acc_ori: 68.3333, acc_ifsl: 0.8333, acc_ifsl: 66.3889, acc_fixed: 68.3333, 
+Accuracy_ori: 246, Accuracy_ifsl: 3, Accuracy_fuse: 239, Accuracy_fixed: 246, size: 360, 
+current acc test 67.508749 current acc val 68.333333
+best acc test 67.054899 best acc val 68.333333
+saving model
+S real T clipart Train Ep: 2100 lr0.008667841720414475 	 Loss Classification: 0.624568 Loss T 0.116734 Method MME
+
+S real T clipart Train Ep: 2200 lr0.008614501024650454 	 Loss Classification: 0.712250 Loss T 0.086576 Method MME
+
+S real T clipart Train Ep: 2300 lr0.008561920016164943 	 Loss Classification: 0.857803 Loss T 0.105591 Method MME
+
+S real T clipart Train Ep: 2400 lr0.008510081829966844 	 Loss Classification: 0.445392 Loss T 0.112402 Method MME
+
+S real T clipart Train Ep: 2500 lr0.008458970107524513 	 Loss Classification: 0.909124 Loss T 0.090958 Method MME
+
+acc_ori: 68.0993, acc_ifsl: 1.3342, acc_ifsl: 67.7712, acc_fixed: 68.0993, 
+Accuracy_ori: 12454, Accuracy_ifsl: 244, Accuracy_fuse: 12394, Accuracy_fixed: 12454, size: 18288, 
+acc_ori: 68.8889, acc_ifsl: 0.2778, acc_ifsl: 68.0556, acc_fixed: 68.8889, 
+Accuracy_ori: 248, Accuracy_ifsl: 1, Accuracy_fuse: 245, Accuracy_fixed: 248, size: 360, 
+current acc test 68.099300 current acc val 68.888889
+best acc test 67.054899 best acc val 68.888889
+saving model
+S real T clipart Train Ep: 2600 lr0.008408568977653933 	 Loss Classification: 0.273928 Loss T 0.113539 Method MME
+
+S real T clipart Train Ep: 2700 lr0.00835886303827305 	 Loss Classification: 0.465359 Loss T 0.106405 Method MME
+
+S real T clipart Train Ep: 2800 lr0.008309837338976545 	 Loss Classification: 0.882850 Loss T 0.110462 Method MME
+
+S real T clipart Train Ep: 2900 lr0.008261477364388068 	 Loss Classification: 0.758008 Loss T 0.105409 Method MME
+
+S real T clipart Train Ep: 3000 lr0.008213769018249545 	 Loss Classification: 0.577866 Loss T 0.078174 Method MME
+
+acc_ori: 69.8764, acc_ifsl: 1.2413, acc_ifsl: 69.3460, acc_fixed: 69.8764, 
+Accuracy_ori: 12779, Accuracy_ifsl: 227, Accuracy_fuse: 12682, Accuracy_fixed: 12779, size: 18288, 
+acc_ori: 70.2778, acc_ifsl: 0.8333, acc_ifsl: 69.7222, acc_fixed: 70.2778, 
+Accuracy_ori: 253, Accuracy_ifsl: 3, Accuracy_fuse: 251, Accuracy_fixed: 253, size: 360, 
+current acc test 69.876422 current acc val 70.277778
+best acc test 69.876422 best acc val 70.277778
+saving model
+S real T clipart Train Ep: 3100 lr0.008166698608209509 	 Loss Classification: 0.436973 Loss T 0.104052 Method MME
+
+S real T clipart Train Ep: 3200 lr0.008120252831274708 	 Loss Classification: 0.658790 Loss T 0.113254 Method MME
+
+S real T clipart Train Ep: 3300 lr0.008074418759891278 	 Loss Classification: 0.684467 Loss T 0.101010 Method MME
+
+S real T clipart Train Ep: 3400 lr0.008029183828623731 	 Loss Classification: 0.406467 Loss T 0.107633 Method MME
+
+S real T clipart Train Ep: 3500 lr0.007984535821401871 	 Loss Classification: 0.501742 Loss T 0.106752 Method MME
+
+acc_ori: 71.0794, acc_ifsl: 1.2194, acc_ifsl: 70.5490, acc_fixed: 71.0794, 
+Accuracy_ori: 12999, Accuracy_ifsl: 223, Accuracy_fuse: 12902, Accuracy_fixed: 12999, size: 18288, 
+acc_ori: 70.2778, acc_ifsl: 0.8333, acc_ifsl: 69.4444, acc_fixed: 70.2778, 
+Accuracy_ori: 253, Accuracy_ifsl: 3, Accuracy_fuse: 250, Accuracy_fixed: 253, size: 360, 
+current acc test 71.079396 current acc val 70.277778
+best acc test 71.079396 best acc val 70.277778
+saving model
+S real T clipart Train Ep: 3600 lr0.007940462859307384 	 Loss Classification: 0.572552 Loss T 0.098927 Method MME
+
+S real T clipart Train Ep: 3700 lr0.007896953388873518 	 Loss Classification: 0.387234 Loss T 0.084478 Method MME
+
+S real T clipart Train Ep: 3800 lr0.007853996170872714 	 Loss Classification: 0.462053 Loss T 0.103018 Method MME
+
+S real T clipart Train Ep: 3900 lr0.00781158026956848 	 Loss Classification: 0.656842 Loss T 0.082530 Method MME
+
+S real T clipart Train Ep: 4000 lr0.007769695042409123 	 Loss Classification: 0.816769 Loss T 0.084306 Method MME
+
+acc_ori: 72.0965, acc_ifsl: 1.0936, acc_ifsl: 71.7356, acc_fixed: 72.0965, 
+Accuracy_ori: 13185, Accuracy_ifsl: 200, Accuracy_fuse: 13119, Accuracy_fixed: 13185, size: 18288, 
+acc_ori: 71.1111, acc_ifsl: 0.5556, acc_ifsl: 72.7778, acc_fixed: 71.1111, 
+Accuracy_ori: 256, Accuracy_ifsl: 2, Accuracy_fuse: 262, Accuracy_fixed: 256, size: 360, 
+current acc test 72.096457 current acc val 71.111111
+best acc test 72.096457 best acc val 71.111111
+saving model
+S real T clipart Train Ep: 4100 lr0.007728330130142108 	 Loss Classification: 0.521898 Loss T 0.086068 Method MME
+
+S real T clipart Train Ep: 4200 lr0.007687475447329114 	 Loss Classification: 0.719277 Loss T 0.069700 Method MME
+
+S real T clipart Train Ep: 4300 lr0.0076471211732427845 	 Loss Classification: 0.549967 Loss T 0.104733 Method MME
+
+S real T clipart Train Ep: 4400 lr0.007607257743127307 	 Loss Classification: 0.276404 Loss T 0.093611 Method MME
+
+S real T clipart Train Ep: 4500 lr0.007567875839805858 	 Loss Classification: 0.470378 Loss T 0.085794 Method MME
+
+acc_ori: 71.9652, acc_ifsl: 1.1374, acc_ifsl: 71.5989, acc_fixed: 71.9652, 
+Accuracy_ori: 13161, Accuracy_ifsl: 208, Accuracy_fuse: 13094, Accuracy_fixed: 13161, size: 18288, 
+acc_ori: 71.6667, acc_ifsl: 0.5556, acc_ifsl: 70.8333, acc_fixed: 71.6667, 
+Accuracy_ori: 258, Accuracy_ifsl: 2, Accuracy_fuse: 255, Accuracy_fixed: 258, size: 360, 
+current acc test 72.096457 current acc val 71.111111
+best acc test 71.965223 best acc val 71.666667
+saving model
+S real T clipart Train Ep: 4600 lr0.007528966385618854 	 Loss Classification: 0.872721 Loss T 0.082777 Method MME
+
+S real T clipart Train Ep: 4700 lr0.007490520534677821 	 Loss Classification: 0.352429 Loss T 0.073658 Method MME
+
+S real T clipart Train Ep: 4800 lr0.007452529665420465 	 Loss Classification: 0.383378 Loss T 0.080620 Method MME
+
+S real T clipart Train Ep: 4900 lr0.007414985373453289 	 Loss Classification: 0.816550 Loss T 0.091554 Method MME
+
+S real T clipart Train Ep: 5000 lr0.007377879464668811 	 Loss Classification: 0.443623 Loss T 0.074243 Method MME
+
+acc_ori: 72.7362, acc_ifsl: 1.1045, acc_ifsl: 72.2933, acc_fixed: 72.7362, 
+Accuracy_ori: 13302, Accuracy_ifsl: 202, Accuracy_fuse: 13221, Accuracy_fixed: 13302, size: 18288, 
+acc_ori: 73.8889, acc_ifsl: 0.0000, acc_ifsl: 73.0556, acc_fixed: 73.8889, 
+Accuracy_ori: 266, Accuracy_ifsl: 0, Accuracy_fuse: 263, Accuracy_fixed: 266, size: 360, 
+current acc test 72.736220 current acc val 73.888889
+best acc test 72.736220 best acc val 73.888889
+saving model
+S real T clipart Train Ep: 5100 lr0.007341203948625087 	 Loss Classification: 0.528458 Loss T 0.086545 Method MME
+
+S real T clipart Train Ep: 5200 lr0.007304951032175895 	 Loss Classification: 0.748074 Loss T 0.072459 Method MME
+
+S real T clipart Train Ep: 5300 lr0.007269113113340497 	 Loss Classification: 0.541179 Loss T 0.083201 Method MME
+
+S real T clipart Train Ep: 5400 lr0.007233682775402483 	 Loss Classification: 0.578499 Loss T 0.089047 Method MME
+
+S real T clipart Train Ep: 5500 lr0.007198652781227704 	 Loss Classification: 0.532052 Loss T 0.087354 Method MME
+
+acc_ori: 73.4853, acc_ifsl: 0.8749, acc_ifsl: 73.1846, acc_fixed: 73.4853, 
+Accuracy_ori: 13439, Accuracy_ifsl: 160, Accuracy_fuse: 13384, Accuracy_fixed: 13439, size: 18288, 
+acc_ori: 73.6111, acc_ifsl: 0.5556, acc_ifsl: 72.5000, acc_fixed: 73.6111, 
+Accuracy_ori: 265, Accuracy_ifsl: 2, Accuracy_fuse: 261, Accuracy_fixed: 265, size: 360, 
+current acc test 73.485346 current acc val 73.611111
+best acc test 72.736220 best acc val 73.611111
+saving model
+S real T clipart Train Ep: 5600 lr0.007164016067791809 	 Loss Classification: 0.426912 Loss T 0.094394 Method MME
+
+S real T clipart Train Ep: 5700 lr0.0071297657409083726 	 Loss Classification: 0.535212 Loss T 0.094717 Method MME
+
+S real T clipart Train Ep: 5800 lr0.0070958950701490225 	 Loss Classification: 0.324121 Loss T 0.072648 Method MME
+
+S real T clipart Train Ep: 5900 lr0.007062397483947426 	 Loss Classification: 0.515335 Loss T 0.092336 Method MME
+
+S real T clipart Train Ep: 6000 lr0.007029266564879363 	 Loss Classification: 0.377813 Loss T 0.067444 Method MME
+
+acc_ori: 73.3268, acc_ifsl: 1.1155, acc_ifsl: 73.1627, acc_fixed: 73.3268, 
+Accuracy_ori: 13410, Accuracy_ifsl: 204, Accuracy_fuse: 13380, Accuracy_fixed: 13410, size: 18288, 
+acc_ori: 71.6667, acc_ifsl: 0.2778, acc_ifsl: 70.0000, acc_fixed: 71.6667, 
+Accuracy_ori: 258, Accuracy_ifsl: 1, Accuracy_fuse: 252, Accuracy_fixed: 258, size: 360, 
+current acc test 73.485346 current acc val 73.611111
+best acc test 72.736220 best acc val 71.666667
+saving model
+S real T clipart Train Ep: 6100 lr0.006996496045111504 	 Loss Classification: 0.432293 Loss T 0.062528 Method MME
+
+S real T clipart Train Ep: 6200 lr0.00696407980201184 	 Loss Classification: 0.425137 Loss T 0.068322 Method MME
+
+S real T clipart Train Ep: 6300 lr0.006932011853915101 	 Loss Classification: 0.799635 Loss T 0.086521 Method MME
+
+S real T clipart Train Ep: 6400 lr0.006900286356036734 	 Loss Classification: 0.494348 Loss T 0.087811 Method MME
+
+S real T clipart Train Ep: 6500 lr0.006868897596529406 	 Loss Classification: 0.407846 Loss T 0.061662 Method MME
+
+acc_ori: 73.6330, acc_ifsl: 1.1155, acc_ifsl: 73.2119, acc_fixed: 73.6330, 
+Accuracy_ori: 13466, Accuracy_ifsl: 204, Accuracy_fuse: 13389, Accuracy_fixed: 13466, size: 18288, 
+acc_ori: 73.8889, acc_ifsl: 1.1111, acc_ifsl: 72.7778, acc_fixed: 73.8889, 
+Accuracy_ori: 266, Accuracy_ifsl: 4, Accuracy_fuse: 262, Accuracy_fixed: 266, size: 360, 
+current acc test 73.632983 current acc val 73.888889
+best acc test 73.632983 best acc val 73.888889
+saving model
+S real T clipart Train Ep: 6600 lr0.006837839992676177 	 Loss Classification: 0.328231 Loss T 0.091586 Method MME
+
+S real T clipart Train Ep: 6700 lr0.006807108087214876 	 Loss Classification: 0.493262 Loss T 0.063226 Method MME
+
+S real T clipart Train Ep: 6800 lr0.006776696544788352 	 Loss Classification: 0.359712 Loss T 0.087067 Method MME
+
+S real T clipart Train Ep: 6900 lr0.006746600148515609 	 Loss Classification: 0.464416 Loss T 0.075543 Method MME
+
+S real T clipart Train Ep: 7000 lr0.006716813796678979 	 Loss Classification: 0.588726 Loss T 0.081207 Method MME
+
+acc_ori: 74.1415, acc_ifsl: 0.9678, acc_ifsl: 73.8517, acc_fixed: 74.1415, 
+Accuracy_ori: 13559, Accuracy_ifsl: 177, Accuracy_fuse: 13506, Accuracy_fixed: 13559, size: 18288, 
+acc_ori: 71.6667, acc_ifsl: 0.2778, acc_ifsl: 72.7778, acc_fixed: 71.6667, 
+Accuracy_ori: 258, Accuracy_ifsl: 1, Accuracy_fuse: 262, Accuracy_fixed: 258, size: 360, 
+current acc test 74.141514 current acc val 71.666667
+best acc test 73.632983 best acc val 71.666667
+saving model
+S real T clipart Train Ep: 7100 lr0.006687332499522798 	 Loss Classification: 0.255365 Loss T 0.061378 Method MME
+
+S real T clipart Train Ep: 7200 lr0.006658151376159165 	 Loss Classification: 0.514330 Loss T 0.073901 Method MME
+
+S real T clipart Train Ep: 7300 lr0.00662926565157663 	 Loss Classification: 0.428930 Loss T 0.063035 Method MME
+
+S real T clipart Train Ep: 7400 lr0.006600670653747793 	 Loss Classification: 0.425771 Loss T 0.076643 Method MME
+
+S real T clipart Train Ep: 7500 lr0.0065723618108320175 	 Loss Classification: 0.682772 Loss T 0.092467 Method MME
+
+acc_ori: 74.1306, acc_ifsl: 0.8913, acc_ifsl: 73.7916, acc_fixed: 74.1306, 
+Accuracy_ori: 13557, Accuracy_ifsl: 163, Accuracy_fuse: 13495, Accuracy_fixed: 13557, size: 18288, 
+acc_ori: 71.6667, acc_ifsl: 0.0000, acc_ifsl: 72.7778, acc_fixed: 71.6667, 
+Accuracy_ori: 258, Accuracy_ifsl: 0, Accuracy_fuse: 262, Accuracy_fixed: 258, size: 360, 
+current acc test 74.141514 current acc val 71.666667
+best acc test 73.632983 best acc val 71.666667
+saving model
+S real T clipart Train Ep: 7600 lr0.006544334648469591 	 Loss Classification: 0.381315 Loss T 0.089195 Method MME
+
+S real T clipart Train Ep: 7700 lr0.006516584787163857 	 Loss Classification: 0.195044 Loss T 0.075610 Method MME
+
+S real T clipart Train Ep: 7800 lr0.006489107939747966 	 Loss Classification: 0.392780 Loss T 0.060465 Method MME
+
+S real T clipart Train Ep: 7900 lr0.0064618999089330565 	 Loss Classification: 0.354990 Loss T 0.084074 Method MME
+
+S real T clipart Train Ep: 8000 lr0.006434956584934828 	 Loss Classification: 0.270262 Loss T 0.081519 Method MME
+
+acc_ori: 74.3766, acc_ifsl: 1.3069, acc_ifsl: 74.2399, acc_fixed: 74.3766, 
+Accuracy_ori: 13602, Accuracy_ifsl: 239, Accuracy_fuse: 13577, Accuracy_fixed: 13602, size: 18288, 
+acc_ori: 75.2778, acc_ifsl: 0.5556, acc_ifsl: 73.6111, acc_fixed: 75.2778, 
+Accuracy_ori: 271, Accuracy_ifsl: 2, Accuracy_fuse: 265, Accuracy_fixed: 271, size: 360, 
+current acc test 74.376640 current acc val 75.277778
+best acc test 74.376640 best acc val 75.277778
+saving model
+S real T clipart Train Ep: 8100 lr0.006408273943175546 	 Loss Classification: 0.382778 Loss T 0.073918 Method MME
+
+S real T clipart Train Ep: 8200 lr0.006381848042058713 	 Loss Classification: 0.305612 Loss T 0.088476 Method MME
+
+S real T clipart Train Ep: 8300 lr0.0063556750208137005 	 Loss Classification: 0.262917 Loss T 0.085043 Method MME
+
+S real T clipart Train Ep: 8400 lr0.006329751097407787 	 Loss Classification: 0.307069 Loss T 0.075876 Method MME
+
+S real T clipart Train Ep: 8500 lr0.0063040725665231365 	 Loss Classification: 0.291862 Loss T 0.051593 Method MME
+
+acc_ori: 74.7157, acc_ifsl: 1.0499, acc_ifsl: 74.5735, acc_fixed: 74.7157, 
+Accuracy_ori: 13664, Accuracy_ifsl: 192, Accuracy_fuse: 13638, Accuracy_fixed: 13664, size: 18288, 
+acc_ori: 74.7222, acc_ifsl: 1.1111, acc_ifsl: 73.6111, acc_fixed: 74.7222, 
+Accuracy_ori: 269, Accuracy_ifsl: 4, Accuracy_fuse: 265, Accuracy_fixed: 269, size: 360, 
+current acc test 74.715661 current acc val 74.722222
+best acc test 74.376640 best acc val 74.722222
+saving model
+S real T clipart Train Ep: 8600 lr0.006278635797596355 	 Loss Classification: 0.602713 Loss T 0.076864 Method MME
+
+S real T clipart Train Ep: 8700 lr0.006253437232918371 	 Loss Classification: 0.384975 Loss T 0.072891 Method MME
+
+S real T clipart Train Ep: 8800 lr0.0062284733857924735 	 Loss Classification: 0.412755 Loss T 0.076386 Method MME
+
+S real T clipart Train Ep: 8900 lr0.006203740838748417 	 Loss Classification: 0.621707 Loss T 0.085244 Method MME
+
+S real T clipart Train Ep: 9000 lr0.006179236241810624 	 Loss Classification: 0.418077 Loss T 0.085107 Method MME
+
+acc_ori: 74.7485, acc_ifsl: 1.1155, acc_ifsl: 74.5079, acc_fixed: 74.7485, 
+Accuracy_ori: 13670, Accuracy_ifsl: 204, Accuracy_fuse: 13626, Accuracy_fixed: 13670, size: 18288, 
+acc_ori: 71.9444, acc_ifsl: 1.1111, acc_ifsl: 71.3889, acc_fixed: 71.9444, 
+Accuracy_ori: 259, Accuracy_ifsl: 4, Accuracy_fuse: 257, Accuracy_fixed: 259, size: 360, 
+current acc test 74.748469 current acc val 71.944444
+best acc test 74.376640 best acc val 71.944444
+saving model
+S real T clipart Train Ep: 9100 lr0.006154956310818535 	 Loss Classification: 0.424761 Loss T 0.097379 Method MME
+
+S real T clipart Train Ep: 9200 lr0.0061308978257973165 	 Loss Classification: 0.546702 Loss T 0.066061 Method MME
+
+S real T clipart Train Ep: 9300 lr0.0061070576293771285 	 Loss Classification: 0.607889 Loss T 0.038138 Method MME
+
+S real T clipart Train Ep: 9400 lr0.006083432625259276 	 Loss Classification: 0.388952 Loss T 0.091296 Method MME
+
+S real T clipart Train Ep: 9500 lr0.006060019776727621 	 Loss Classification: 0.308075 Loss T 0.064390 Method MME
+
+acc_ori: 74.7102, acc_ifsl: 1.1319, acc_ifsl: 74.4805, acc_fixed: 74.7102, 
+Accuracy_ori: 13663, Accuracy_ifsl: 207, Accuracy_fuse: 13621, Accuracy_fixed: 13663, size: 18288, 
+acc_ori: 72.5000, acc_ifsl: 0.5556, acc_ifsl: 71.9444, acc_fixed: 72.5000, 
+Accuracy_ori: 261, Accuracy_ifsl: 2, Accuracy_fuse: 259, Accuracy_fixed: 261, size: 360, 
+current acc test 74.748469 current acc val 71.944444
+best acc test 74.376640 best acc val 72.500000
+saving model
+S real T clipart Train Ep: 9600 lr0.00603681610520369 	 Loss Classification: 0.247284 Loss T 0.087988 Method MME
+
+S real T clipart Train Ep: 9700 lr0.0060138186888439825 	 Loss Classification: 0.651745 Loss T 0.052865 Method MME
+
+S real T clipart Train Ep: 9800 lr0.005991024661178045 	 Loss Classification: 0.415114 Loss T 0.074297 Method MME
+
+S real T clipart Train Ep: 9900 lr0.0059684312097859115 	 Loss Classification: 0.378115 Loss T 0.043520 Method MME
+
+S real T clipart Train Ep: 10000 lr0.005946035575013605 	 Loss Classification: 0.380159 Loss T 0.086541 Method MME
+
+acc_ori: 75.2242, acc_ifsl: 0.9514, acc_ifsl: 74.8250, acc_fixed: 75.2242, 
+Accuracy_ori: 13757, Accuracy_ifsl: 174, Accuracy_fuse: 13684, Accuracy_fixed: 13757, size: 18288, 
+acc_ori: 72.7778, acc_ifsl: 0.2778, acc_ifsl: 71.3889, acc_fixed: 72.7778, 
+Accuracy_ori: 262, Accuracy_ifsl: 1, Accuracy_fuse: 257, Accuracy_fixed: 262, size: 360, 
+current acc test 75.224191 current acc val 72.777778
+best acc test 74.376640 best acc val 72.777778
+saving model
+S real T clipart Train Ep: 10100 lr0.005923835048725393 	 Loss Classification: 0.406337 Loss T 0.074140 Method MME
+
+S real T clipart Train Ep: 10200 lr0.005901826973091593 	 Loss Classification: 0.598007 Loss T 0.075075 Method MME
+
+S real T clipart Train Ep: 10300 lr0.005880008739410735 	 Loss Classification: 0.318559 Loss T 0.061736 Method MME
+
+S real T clipart Train Ep: 10400 lr0.005858377786964935 	 Loss Classification: 0.341916 Loss T 0.069181 Method MME
+
+S real T clipart Train Ep: 10500 lr0.005836931601907399 	 Loss Classification: 0.288927 Loss T 0.057128 Method MME
+
+acc_ori: 75.2133, acc_ifsl: 1.1319, acc_ifsl: 75.0711, acc_fixed: 75.2133, 
+Accuracy_ori: 13755, Accuracy_ifsl: 207, Accuracy_fuse: 13729, Accuracy_fixed: 13755, size: 18288, 
+acc_ori: 73.6111, acc_ifsl: 0.8333, acc_ifsl: 73.0556, acc_fixed: 73.6111, 
+Accuracy_ori: 265, Accuracy_ifsl: 3, Accuracy_fuse: 263, Accuracy_fixed: 265, size: 360, 
+current acc test 75.224191 current acc val 72.777778
+best acc test 74.376640 best acc val 73.611111
+saving model
+S real T clipart Train Ep: 10600 lr0.005815667716181004 	 Loss Classification: 0.872019 Loss T 0.080562 Method MME
+
+S real T clipart Train Ep: 10700 lr0.005794583706466925 	 Loss Classification: 0.150957 Loss T 0.051714 Method MME
+
+S real T clipart Train Ep: 10800 lr0.005773677193162352 	 Loss Classification: 0.244693 Loss T 0.066001 Method MME
+
+S real T clipart Train Ep: 10900 lr0.005752945839386346 	 Loss Classification: 0.407557 Loss T 0.063666 Method MME
+
+S real T clipart Train Ep: 11000 lr0.005732387350012933 	 Loss Classification: 0.283045 Loss T 0.038262 Method MME
+
+acc_ori: 75.7163, acc_ifsl: 1.1210, acc_ifsl: 75.5523, acc_fixed: 75.7163, 
+Accuracy_ori: 13847, Accuracy_ifsl: 205, Accuracy_fuse: 13817, Accuracy_fixed: 13847, size: 18288, 
+acc_ori: 72.5000, acc_ifsl: 0.5556, acc_ifsl: 72.5000, acc_fixed: 72.5000, 
+Accuracy_ori: 261, Accuracy_ifsl: 2, Accuracy_fuse: 261, Accuracy_fixed: 261, size: 360, 
+current acc test 75.716317 current acc val 72.500000
+best acc test 74.376640 best acc val 72.500000
+saving model
+S real T clipart Train Ep: 11100 lr0.005711999470730565 	 Loss Classification: 0.374281 Loss T 0.080154 Method MME
+
+S real T clipart Train Ep: 11200 lr0.005691779987127103 	 Loss Classification: 0.389631 Loss T 0.054196 Method MME
+
+S real T clipart Train Ep: 11300 lr0.005671726723799515 	 Loss Classification: 0.298100 Loss T 0.066648 Method MME
+
+S real T clipart Train Ep: 11400 lr0.005651837543487509 	 Loss Classification: 0.335380 Loss T 0.082595 Method MME
+
+S real T clipart Train Ep: 11500 lr0.005632110346230358 	 Loss Classification: 0.345579 Loss T 0.057550 Method MME
+
+acc_ori: 75.1804, acc_ifsl: 0.9022, acc_ifsl: 75.1586, acc_fixed: 75.1804, 
+Accuracy_ori: 13749, Accuracy_ifsl: 165, Accuracy_fuse: 13745, Accuracy_fixed: 13749, size: 18288, 
+acc_ori: 72.7778, acc_ifsl: 0.5556, acc_ifsl: 72.5000, acc_fixed: 72.7778, 
+Accuracy_ori: 262, Accuracy_ifsl: 2, Accuracy_fuse: 261, Accuracy_fixed: 262, size: 360, 
+current acc test 75.716317 current acc val 72.500000
+best acc test 74.376640 best acc val 72.777778
+saving model
+S real T clipart Train Ep: 11600 lr0.005612543068546177 	 Loss Classification: 0.460099 Loss T 0.078274 Method MME
+
+S real T clipart Train Ep: 11700 lr0.005593133682632953 	 Loss Classification: 0.230730 Loss T 0.053262 Method MME
+
+S real T clipart Train Ep: 11800 lr0.005573880195590681 	 Loss Classification: 0.485585 Loss T 0.051544 Method MME
+
+S real T clipart Train Ep: 11900 lr0.0055547806486639095 	 Loss Classification: 0.373875 Loss T 0.060735 Method MME
+
+S real T clipart Train Ep: 12000 lr0.005535833116504121 	 Loss Classification: 0.388110 Loss T 0.052662 Method MME
+
+acc_ori: 75.5249, acc_ifsl: 0.9296, acc_ifsl: 75.4046, acc_fixed: 75.5249, 
+Accuracy_ori: 13812, Accuracy_ifsl: 170, Accuracy_fuse: 13790, Accuracy_fixed: 13812, size: 18288, 
+acc_ori: 73.0556, acc_ifsl: 0.0000, acc_ifsl: 72.2222, acc_fixed: 73.0556, 
+Accuracy_ori: 263, Accuracy_ifsl: 0, Accuracy_fuse: 260, Accuracy_fixed: 263, size: 360, 
+current acc test 75.716317 current acc val 72.500000
+best acc test 74.376640 best acc val 73.055556
+saving model
+S real T clipart Train Ep: 12100 lr0.00551703570645129 	 Loss Classification: 0.196610 Loss T 0.067386 Method MME
+
+S real T clipart Train Ep: 12200 lr0.005498386557834078 	 Loss Classification: 0.639807 Loss T 0.073533 Method MME
+
+S real T clipart Train Ep: 12300 lr0.00547988384128807 	 Loss Classification: 0.285324 Loss T 0.061619 Method MME
+
+S real T clipart Train Ep: 12400 lr0.005461525758091539 	 Loss Classification: 0.516735 Loss T 0.066351 Method MME
+
+S real T clipart Train Ep: 12500 lr0.005443310539518174 	 Loss Classification: 0.348797 Loss T 0.047344 Method MME
+
+acc_ori: 75.5960, acc_ifsl: 0.9952, acc_ifsl: 75.4921, acc_fixed: 75.5960, 
+Accuracy_ori: 13825, Accuracy_ifsl: 182, Accuracy_fuse: 13806, Accuracy_fixed: 13825, size: 18288, 
+acc_ori: 73.3333, acc_ifsl: 0.2778, acc_ifsl: 73.3333, acc_fixed: 73.3333, 
+Accuracy_ori: 264, Accuracy_ifsl: 1, Accuracy_fuse: 264, Accuracy_fixed: 264, size: 360, 
+current acc test 75.716317 current acc val 72.500000
+best acc test 74.376640 best acc val 73.333333
+saving model
+S real T clipart Train Ep: 12600 lr0.005425236446206295 	 Loss Classification: 0.546225 Loss T 0.054348 Method MME
+
+S real T clipart Train Ep: 12700 lr0.005407301767544059 	 Loss Classification: 0.234963 Loss T 0.058393 Method MME
+
+S real T clipart Train Ep: 12800 lr0.005389504821070177 	 Loss Classification: 0.515827 Loss T 0.044588 Method MME
+
+S real T clipart Train Ep: 12900 lr0.005371843951889677 	 Loss Classification: 0.134595 Loss T 0.065817 Method MME
+
+S real T clipart Train Ep: 13000 lr0.0053543175321042955 	 Loss Classification: 0.246480 Loss T 0.071687 Method MME
+
+acc_ori: 75.9624, acc_ifsl: 1.1920, acc_ifsl: 75.8421, acc_fixed: 75.9624, 
+Accuracy_ori: 13892, Accuracy_ifsl: 218, Accuracy_fuse: 13870, Accuracy_fixed: 13892, size: 18288, 
+acc_ori: 75.0000, acc_ifsl: 0.5556, acc_ifsl: 75.5556, acc_fixed: 75.0000, 
+Accuracy_ori: 270, Accuracy_ifsl: 2, Accuracy_fuse: 272, Accuracy_fixed: 270, size: 360, 
+current acc test 75.962380 current acc val 75.000000
+best acc test 74.376640 best acc val 75.000000
+saving model
+S real T clipart Train Ep: 13100 lr0.005336923960257046 	 Loss Classification: 0.598177 Loss T 0.057906 Method MME
+
+S real T clipart Train Ep: 13200 lr0.0053196616607905645 	 Loss Classification: 0.327765 Loss T 0.051437 Method MME
+
+S real T clipart Train Ep: 13300 lr0.0053025290835188275 	 Loss Classification: 0.254557 Loss T 0.060622 Method MME
+
+S real T clipart Train Ep: 13400 lr0.005285524703111859 	 Loss Classification: 0.316709 Loss T 0.064520 Method MME
+
+S real T clipart Train Ep: 13500 lr0.005268647018593052 	 Loss Classification: 0.554213 Loss T 0.080396 Method MME
+
+acc_ori: 76.1374, acc_ifsl: 0.8147, acc_ifsl: 76.0991, acc_fixed: 76.1374, 
+Accuracy_ori: 13924, Accuracy_ifsl: 149, Accuracy_fuse: 13917, Accuracy_fixed: 13924, size: 18288, 
+acc_ori: 73.8889, acc_ifsl: 0.8333, acc_ifsl: 73.6111, acc_fixed: 73.8889, 
+Accuracy_ori: 266, Accuracy_ifsl: 3, Accuracy_fuse: 265, Accuracy_fixed: 266, size: 360, 
+current acc test 76.137358 current acc val 73.888889
+best acc test 74.376640 best acc val 73.888889
+saving model
+S real T clipart Train Ep: 13600 lr0.005251894552848747 	 Loss Classification: 0.247436 Loss T 0.063726 Method MME
+
+S real T clipart Train Ep: 13700 lr0.005235265852149712 	 Loss Classification: 0.246764 Loss T 0.087785 Method MME
+
+S real T clipart Train Ep: 13800 lr0.005218759485684187 	 Loss Classification: 0.188700 Loss T 0.047125 Method MME
+
+S real T clipart Train Ep: 13900 lr0.005202374045102174 	 Loss Classification: 0.183062 Loss T 0.076733 Method MME
+
+S real T clipart Train Ep: 14000 lr0.005186108144070652 	 Loss Classification: 0.202996 Loss T 0.087710 Method MME
+
+acc_ori: 76.1647, acc_ifsl: 1.0171, acc_ifsl: 76.0936, acc_fixed: 76.1647, 
+Accuracy_ori: 13929, Accuracy_ifsl: 186, Accuracy_fuse: 13916, Accuracy_fixed: 13929, size: 18288, 
+acc_ori: 74.7222, acc_ifsl: 0.2778, acc_ifsl: 73.8889, acc_fixed: 74.7222, 
+Accuracy_ori: 269, Accuracy_ifsl: 1, Accuracy_fuse: 266, Accuracy_fixed: 269, size: 360, 
+current acc test 76.164698 current acc val 74.722222
+best acc test 74.376640 best acc val 74.722222
+saving model
+S real T clipart Train Ep: 14100 lr0.005169960417839403 	 Loss Classification: 0.570295 Loss T 0.055357 Method MME
+
+S real T clipart Train Ep: 14200 lr0.005153929522817161 	 Loss Classification: 0.255805 Loss T 0.071625 Method MME
+
+S real T clipart Train Ep: 14300 lr0.005138014136157799 	 Loss Classification: 0.332309 Loss T 0.064587 Method MME
+
+S real T clipart Train Ep: 14400 lr0.005122212955356274 	 Loss Classification: 0.302477 Loss T 0.043653 Method MME
+
+S real T clipart Train Ep: 14500 lr0.005106524697854057 	 Loss Classification: 0.309132 Loss T 0.053715 Method MME
+
+acc_ori: 76.2467, acc_ifsl: 0.9624, acc_ifsl: 76.2248, acc_fixed: 76.2467, 
+Accuracy_ori: 13944, Accuracy_ifsl: 176, Accuracy_fuse: 13940, Accuracy_fixed: 13944, size: 18288, 
+acc_ori: 74.4444, acc_ifsl: 0.0000, acc_ifsl: 74.7222, acc_fixed: 74.4444, 
+Accuracy_ori: 268, Accuracy_ifsl: 0, Accuracy_fuse: 269, Accuracy_fixed: 268, size: 360, 
+current acc test 76.246719 current acc val 74.444444
+best acc test 74.376640 best acc val 74.444444
+saving model
+S real T clipart Train Ep: 14600 lr0.005090948100653781 	 Loss Classification: 0.382606 Loss T 0.059579 Method MME
+
+S real T clipart Train Ep: 14700 lr0.0050754819199428855 	 Loss Classification: 0.416609 Loss T 0.049177 Method MME
+
+S real T clipart Train Ep: 14800 lr0.005060124930725974 	 Loss Classification: 0.301822 Loss T 0.050036 Method MME
+
+S real T clipart Train Ep: 14900 lr0.00504487592646567 	 Loss Classification: 0.157361 Loss T 0.065388 Method MME
+
+S real T clipart Train Ep: 15000 lr0.005029733718731741 	 Loss Classification: 0.354507 Loss T 0.064192 Method MME
+
+acc_ori: 76.3998, acc_ifsl: 1.4162, acc_ifsl: 76.3780, acc_fixed: 76.3998, 
+Accuracy_ori: 13972, Accuracy_ifsl: 259, Accuracy_fuse: 13968, Accuracy_fixed: 13972, size: 18288, 
+acc_ori: 76.3889, acc_ifsl: 0.5556, acc_ifsl: 75.8333, acc_fixed: 76.3889, 
+Accuracy_ori: 275, Accuracy_ifsl: 2, Accuracy_fuse: 273, Accuracy_fixed: 275, size: 360, 
+current acc test 76.399825 current acc val 76.388889
+best acc test 76.399825 best acc val 76.388889
+saving model
+S real T clipart Train Ep: 15100 lr0.005014697136858264 	 Loss Classification: 0.332967 Loss T 0.047446 Method MME
+
+S real T clipart Train Ep: 15200 lr0.004999765027608607 	 Loss Classification: 0.365509 Loss T 0.048661 Method MME
+
+S real T clipart Train Ep: 15300 lr0.004984936254848047 	 Loss Classification: 0.146103 Loss T 0.055372 Method MME
+
+S real T clipart Train Ep: 15400 lr0.004970209699223787 	 Loss Classification: 0.312786 Loss T 0.066411 Method MME
+
+S real T clipart Train Ep: 15500 lr0.0049555842578521995 	 Loss Classification: 0.548571 Loss T 0.051226 Method MME
+
+acc_ori: 76.3123, acc_ifsl: 1.1975, acc_ifsl: 76.2522, acc_fixed: 76.3123, 
+Accuracy_ori: 13956, Accuracy_ifsl: 219, Accuracy_fuse: 13945, Accuracy_fixed: 13956, size: 18288, 
+acc_ori: 71.3889, acc_ifsl: 1.1111, acc_ifsl: 71.3889, acc_fixed: 71.3889, 
+Accuracy_ori: 257, Accuracy_ifsl: 4, Accuracy_fuse: 257, Accuracy_fixed: 257, size: 360, 
+current acc test 76.399825 current acc val 76.388889
+best acc test 76.399825 best acc val 71.388889
+saving model
+S real T clipart Train Ep: 15600 lr0.004941058844013093 	 Loss Classification: 0.373870 Loss T 0.061962 Method MME
+
+S real T clipart Train Ep: 15700 lr0.004926632386850831 	 Loss Classification: 0.423207 Loss T 0.056977 Method MME
+
+S real T clipart Train Ep: 15800 lr0.004912303831082109 	 Loss Classification: 0.315574 Loss T 0.081139 Method MME
+
+S real T clipart Train Ep: 15900 lr0.004898072136710217 	 Loss Classification: 0.265626 Loss T 0.050456 Method MME
+
+S real T clipart Train Ep: 16000 lr0.004883936278745637 	 Loss Classification: 0.189944 Loss T 0.052889 Method MME
+
+acc_ori: 76.5967, acc_ifsl: 0.9460, acc_ifsl: 76.7224, acc_fixed: 76.5967, 
+Accuracy_ori: 14008, Accuracy_ifsl: 173, Accuracy_fuse: 14031, Accuracy_fixed: 14008, size: 18288, 
+acc_ori: 75.0000, acc_ifsl: 0.5556, acc_ifsl: 74.7222, acc_fixed: 75.0000, 
+Accuracy_ori: 270, Accuracy_ifsl: 2, Accuracy_fuse: 269, Accuracy_fixed: 270, size: 360, 
+current acc test 76.596675 current acc val 75.000000
+best acc test 76.399825 best acc val 75.000000
+saving model
+S real T clipart Train Ep: 16100 lr0.004869895246932789 	 Loss Classification: 0.312546 Loss T 0.070264 Method MME
+
+S real T clipart Train Ep: 16200 lr0.004855948045482784 	 Loss Classification: 0.291386 Loss T 0.049171 Method MME
+
+S real T clipart Train Ep: 16300 lr0.004842093692812012 	 Loss Classification: 0.289134 Loss T 0.061691 Method MME
+
+S real T clipart Train Ep: 16400 lr0.004828331221286437 	 Loss Classification: 0.323698 Loss T 0.056596 Method MME
+
+S real T clipart Train Ep: 16500 lr0.004814659676971443 	 Loss Classification: 0.289934 Loss T 0.041297 Method MME
+
+acc_ori: 76.7334, acc_ifsl: 1.2522, acc_ifsl: 76.6076, acc_fixed: 76.7334, 
+Accuracy_ori: 14033, Accuracy_ifsl: 229, Accuracy_fuse: 14010, Accuracy_fixed: 14033, size: 18288, 
+acc_ori: 74.1667, acc_ifsl: 0.5556, acc_ifsl: 74.7222, acc_fixed: 74.1667, 
+Accuracy_ori: 267, Accuracy_ifsl: 2, Accuracy_fuse: 269, Accuracy_fixed: 267, size: 360, 
+current acc test 76.733377 current acc val 74.166667
+best acc test 76.399825 best acc val 74.166667
+saving model
+S real T clipart Train Ep: 16600 lr0.004801078119387078 	 Loss Classification: 0.556863 Loss T 0.080861 Method MME
+
+S real T clipart Train Ep: 16700 lr0.004787585621268585 	 Loss Classification: 0.444149 Loss T 0.038895 Method MME
+
+S real T clipart Train Ep: 16800 lr0.0047741812683320655 	 Loss Classification: 0.379861 Loss T 0.051357 Method MME
+
+S real T clipart Train Ep: 16900 lr0.004760864159045157 	 Loss Classification: 0.321678 Loss T 0.042364 Method MME
+
+S real T clipart Train Ep: 17000 lr0.0047476334044026 	 Loss Classification: 0.326904 Loss T 0.050554 Method MME
+
+acc_ori: 76.5475, acc_ifsl: 0.9897, acc_ifsl: 76.3998, acc_fixed: 76.5475, 
+Accuracy_ori: 13999, Accuracy_ifsl: 181, Accuracy_fuse: 13972, Accuracy_fixed: 13999, size: 18288, 
+acc_ori: 75.8333, acc_ifsl: 0.5556, acc_ifsl: 75.8333, acc_fixed: 75.8333, 
+Accuracy_ori: 273, Accuracy_ifsl: 2, Accuracy_fuse: 273, Accuracy_fixed: 273, size: 360, 
+current acc test 76.733377 current acc val 74.166667
+best acc test 76.399825 best acc val 75.833333
+saving model
+S real T clipart Train Ep: 17100 lr0.004734488127706559 	 Loss Classification: 0.344127 Loss T 0.061985 Method MME
+
+S real T clipart Train Ep: 17200 lr0.004721427464351597 	 Loss Classification: 0.496884 Loss T 0.062727 Method MME
+
+S real T clipart Train Ep: 17300 lr0.004708450561614184 	 Loss Classification: 0.381359 Loss T 0.063267 Method MME
+
+S real T clipart Train Ep: 17400 lr0.004695556578446619 	 Loss Classification: 0.546447 Loss T 0.045299 Method MME
+
+S real T clipart Train Ep: 17500 lr0.004682744685275263 	 Loss Classification: 0.231085 Loss T 0.040593 Method MME
+
+acc_ori: 76.6951, acc_ifsl: 1.0335, acc_ifsl: 76.5803, acc_fixed: 76.6951, 
+Accuracy_ori: 14026, Accuracy_ifsl: 189, Accuracy_fuse: 14005, Accuracy_fixed: 14026, size: 18288, 
+acc_ori: 75.0000, acc_ifsl: 0.5556, acc_ifsl: 75.0000, acc_fixed: 75.0000, 
+Accuracy_ori: 270, Accuracy_ifsl: 2, Accuracy_fuse: 270, Accuracy_fixed: 270, size: 360, 
+current acc test 76.733377 current acc val 74.166667
+best acc test 76.399825 best acc val 75.000000
+saving model
+S real T clipart Train Ep: 17600 lr0.004670014063802979 	 Loss Classification: 0.417678 Loss T 0.049785 Method MME
+
+S real T clipart Train Ep: 17700 lr0.004657363906815676 	 Loss Classification: 0.290010 Loss T 0.065170 Method MME
+
+S real T clipart Train Ep: 17800 lr0.004644793417992855 	 Loss Classification: 0.288023 Loss T 0.061649 Method MME
+
+S real T clipart Train Ep: 17900 lr0.004632301811722062 	 Loss Classification: 0.419220 Loss T 0.047718 Method MME
+
+S real T clipart Train Ep: 18000 lr0.004619888312917149 	 Loss Classification: 0.278812 Loss T 0.043790 Method MME
+
+acc_ori: 76.9357, acc_ifsl: 1.0171, acc_ifsl: 76.9849, acc_fixed: 76.9357, 
+Accuracy_ori: 14070, Accuracy_ifsl: 186, Accuracy_fuse: 14079, Accuracy_fixed: 14070, size: 18288, 
+acc_ori: 76.9444, acc_ifsl: 0.5556, acc_ifsl: 76.1111, acc_fixed: 76.9444, 
+Accuracy_ori: 277, Accuracy_ifsl: 2, Accuracy_fuse: 274, Accuracy_fixed: 277, size: 360, 
+current acc test 76.935696 current acc val 76.944444
+best acc test 76.935696 best acc val 76.944444
+saving model
+S real T clipart Train Ep: 18100 lr0.00460755215684026 	 Loss Classification: 0.271587 Loss T 0.046194 Method MME
+
+S real T clipart Train Ep: 18200 lr0.00459529258892745 	 Loss Classification: 0.199365 Loss T 0.055128 Method MME
+
+S real T clipart Train Ep: 18300 lr0.004583108864617844 	 Loss Classification: 0.207392 Loss T 0.039017 Method MME
+
+S real T clipart Train Ep: 18400 lr0.0045710002491862545 	 Loss Classification: 0.320097 Loss T 0.045334 Method MME
+
+S real T clipart Train Ep: 18500 lr0.0045589660175791875 	 Loss Classification: 0.333018 Loss T 0.046168 Method MME
+
+acc_ori: 76.9958, acc_ifsl: 1.3342, acc_ifsl: 77.0341, acc_fixed: 76.9958, 
+Accuracy_ori: 14081, Accuracy_ifsl: 244, Accuracy_fuse: 14088, Accuracy_fixed: 14081, size: 18288, 
+acc_ori: 75.8333, acc_ifsl: 0.0000, acc_ifsl: 75.5556, acc_fixed: 75.8333, 
+Accuracy_ori: 273, Accuracy_ifsl: 0, Accuracy_fuse: 272, Accuracy_fixed: 273, size: 360, 
+current acc test 76.995844 current acc val 75.833333
+best acc test 76.935696 best acc val 75.833333
+saving model
+S real T clipart Train Ep: 18600 lr0.004547005454254138 	 Loss Classification: 0.299557 Loss T 0.047525 Method MME
+
+S real T clipart Train Ep: 18700 lr0.004535117853022106 	 Loss Classification: 0.472271 Loss T 0.066527 Method MME
+
+S real T clipart Train Ep: 18800 lr0.004523302516893268 	 Loss Classification: 0.228326 Loss T 0.062933 Method MME
+
+S real T clipart Train Ep: 18900 lr0.004511558757925708 	 Loss Classification: 0.254795 Loss T 0.045444 Method MME
+
+S real T clipart Train Ep: 19000 lr0.004499885897077159 	 Loss Classification: 0.125480 Loss T 0.068024 Method MME
+
+acc_ori: 77.0669, acc_ifsl: 0.8968, acc_ifsl: 77.0177, acc_fixed: 77.0669, 
+Accuracy_ori: 14094, Accuracy_ifsl: 164, Accuracy_fuse: 14085, Accuracy_fixed: 14094, size: 18288, 
+acc_ori: 76.6667, acc_ifsl: 0.5556, acc_ifsl: 75.5556, acc_fixed: 76.6667, 
+Accuracy_ori: 276, Accuracy_ifsl: 2, Accuracy_fuse: 272, Accuracy_fixed: 276, size: 360, 
+current acc test 77.066929 current acc val 76.666667
+best acc test 76.935696 best acc val 76.666667
+saving model
+S real T clipart Train Ep: 19100 lr0.004488283264059669 	 Loss Classification: 0.213090 Loss T 0.036951 Method MME
+
+S real T clipart Train Ep: 19200 lr0.004476750197197131 	 Loss Classification: 0.395023 Loss T 0.050559 Method MME
+
+S real T clipart Train Ep: 19300 lr0.004465286043285614 	 Loss Classification: 0.303838 Loss T 0.044853 Method MME
+
+S real T clipart Train Ep: 19400 lr0.004453890157456425 	 Loss Classification: 0.472545 Loss T 0.033391 Method MME
+
+S real T clipart Train Ep: 19500 lr0.004442561903041838 	 Loss Classification: 0.271150 Loss T 0.058415 Method MME
+
+acc_ori: 76.8974, acc_ifsl: 1.2139, acc_ifsl: 76.9904, acc_fixed: 76.8974, 
+Accuracy_ori: 14063, Accuracy_ifsl: 222, Accuracy_fuse: 14080, Accuracy_fixed: 14063, size: 18288, 
+acc_ori: 74.7222, acc_ifsl: 0.8333, acc_ifsl: 74.4444, acc_fixed: 74.7222, 
+Accuracy_ori: 269, Accuracy_ifsl: 3, Accuracy_fuse: 268, Accuracy_fixed: 269, size: 360, 
+current acc test 77.066929 current acc val 76.666667
+best acc test 76.935696 best acc val 74.722222
+saving model
+S real T clipart Train Ep: 19600 lr0.004431300651443432 	 Loss Classification: 0.321976 Loss T 0.051808 Method MME
+
+S real T clipart Train Ep: 19700 lr0.004420105782002992 	 Loss Classification: 0.502638 Loss T 0.038360 Method MME
+
+S real T clipart Train Ep: 19800 lr0.004408976681875879 	 Loss Classification: 0.572818 Loss T 0.047709 Method MME
+
+S real T clipart Train Ep: 19900 lr0.004397912745906863 	 Loss Classification: 0.385683 Loss T 0.047161 Method MME
+
+S real T clipart Train Ep: 20000 lr0.004386913376508308 	 Loss Classification: 0.345500 Loss T 0.032539 Method MME
+
+acc_ori: 77.0122, acc_ifsl: 1.0389, acc_ifsl: 76.9248, acc_fixed: 77.0122, 
+Accuracy_ori: 14084, Accuracy_ifsl: 190, Accuracy_fuse: 14068, Accuracy_fixed: 14084, size: 18288, 
+acc_ori: 74.7222, acc_ifsl: 0.5556, acc_ifsl: 75.2778, acc_fixed: 74.7222, 
+Accuracy_ori: 269, Accuracy_ifsl: 2, Accuracy_fuse: 271, Accuracy_fixed: 269, size: 360, 
+current acc test 77.066929 current acc val 76.666667
+best acc test 76.935696 best acc val 74.722222
+saving model
+S real T clipart Train Ep: 20100 lr0.004375977983540715 	 Loss Classification: 0.387431 Loss T 0.033107 Method MME
+
+S real T clipart Train Ep: 20200 lr0.004365105984195512 	 Loss Classification: 0.316448 Loss T 0.042456 Method MME
+
+S real T clipart Train Ep: 20300 lr0.004354296802880095 	 Loss Classification: 0.259961 Loss T 0.040217 Method MME
+
+S real T clipart Train Ep: 20400 lr0.004343549871105023 	 Loss Classification: 0.426971 Loss T 0.048680 Method MME
+
+S real T clipart Train Ep: 20500 lr0.0043328646273733526 	 Loss Classification: 0.486549 Loss T 0.058991 Method MME
+
+acc_ori: 77.1107, acc_ifsl: 1.0663, acc_ifsl: 77.1380, acc_fixed: 77.1107, 
+Accuracy_ori: 14102, Accuracy_ifsl: 195, Accuracy_fuse: 14107, Accuracy_fixed: 14102, size: 18288, 
+acc_ori: 75.8333, acc_ifsl: 0.2778, acc_ifsl: 75.0000, acc_fixed: 75.8333, 
+Accuracy_ori: 273, Accuracy_ifsl: 1, Accuracy_fuse: 270, Accuracy_fixed: 273, size: 360, 
+current acc test 77.110674 current acc val 75.833333
+best acc test 76.935696 best acc val 75.833333
+saving model
+S real T clipart Train Ep: 20600 lr0.00432224051707205 	 Loss Classification: 0.104886 Loss T 0.031685 Method MME
+
+S real T clipart Train Ep: 20700 lr0.0043116769923654385 	 Loss Classification: 0.276553 Loss T 0.056545 Method MME
+
+S real T clipart Train Ep: 20800 lr0.004301173512090631 	 Loss Classification: 0.256670 Loss T 0.047946 Method MME
+
+S real T clipart Train Ep: 20900 lr0.004290729541654919 	 Loss Classification: 0.374353 Loss T 0.028934 Method MME
+
+S real T clipart Train Ep: 21000 lr0.0042803445529350555 	 Loss Classification: 0.199549 Loss T 0.028708 Method MME
+
+acc_ori: 77.1872, acc_ifsl: 1.0608, acc_ifsl: 77.1325, acc_fixed: 77.1872, 
+Accuracy_ori: 14116, Accuracy_ifsl: 194, Accuracy_fuse: 14106, Accuracy_fixed: 14116, size: 18288, 
+acc_ori: 75.8333, acc_ifsl: 0.2778, acc_ifsl: 75.2778, acc_fixed: 75.8333, 
+Accuracy_ori: 273, Accuracy_ifsl: 1, Accuracy_fuse: 271, Accuracy_fixed: 273, size: 360, 
+current acc test 77.187227 current acc val 75.833333
+best acc test 76.935696 best acc val 75.833333
+saving model
+S real T clipart Train Ep: 21100 lr0.0042700180241784045 	 Loss Classification: 0.329769 Loss T 0.039147 Method MME
+
+S real T clipart Train Ep: 21200 lr0.004259749439905917 	 Loss Classification: 0.189014 Loss T 0.052494 Method MME
+
+S real T clipart Train Ep: 21300 lr0.004249538290816886 	 Loss Classification: 0.142562 Loss T 0.047474 Method MME
+
+S real T clipart Train Ep: 21400 lr0.004239384073695442 	 Loss Classification: 0.245562 Loss T 0.038254 Method MME
+
+S real T clipart Train Ep: 21500 lr0.004229286291318768 	 Loss Classification: 0.320318 Loss T 0.054834 Method MME
+
+acc_ori: 77.2857, acc_ifsl: 0.8530, acc_ifsl: 77.3677, acc_fixed: 77.2857, 
+Accuracy_ori: 14134, Accuracy_ifsl: 156, Accuracy_fuse: 14149, Accuracy_fixed: 14134, size: 18288, 
+acc_ori: 76.6667, acc_ifsl: 0.2778, acc_ifsl: 76.3889, acc_fixed: 76.6667, 
+Accuracy_ori: 276, Accuracy_ifsl: 1, Accuracy_fuse: 275, Accuracy_fixed: 276, size: 360, 
+current acc test 77.285652 current acc val 76.666667
+best acc test 76.935696 best acc val 76.666667
+saving model
+S real T clipart Train Ep: 21600 lr0.004219244452366975 	 Loss Classification: 0.302611 Loss T 0.035289 Method MME
+
+S real T clipart Train Ep: 21700 lr0.004209258071334615 	 Loss Classification: 0.365818 Loss T 0.054967 Method MME
+
+S real T clipart Train Ep: 21800 lr0.004199326668443797 	 Loss Classification: 0.228486 Loss T 0.059157 Method MME
+
+S real T clipart Train Ep: 21900 lr0.004189449769558871 	 Loss Classification: 0.297734 Loss T 0.042952 Method MME
+
+S real T clipart Train Ep: 22000 lr0.004179626906102638 	 Loss Classification: 0.242931 Loss T 0.043923 Method MME
+
+acc_ori: 77.1490, acc_ifsl: 1.1647, acc_ifsl: 77.0560, acc_fixed: 77.1490, 
+Accuracy_ori: 14109, Accuracy_ifsl: 213, Accuracy_fuse: 14092, Accuracy_fixed: 14109, size: 18288, 
+acc_ori: 76.3889, acc_ifsl: 1.3889, acc_ifsl: 75.8333, acc_fixed: 76.3889, 
+Accuracy_ori: 275, Accuracy_ifsl: 5, Accuracy_fuse: 273, Accuracy_fixed: 275, size: 360, 
+current acc test 77.285652 current acc val 76.666667
+best acc test 76.935696 best acc val 76.388889
+saving model
+S real T clipart Train Ep: 22100 lr0.004169857614974071 	 Loss Classification: 0.552198 Loss T 0.030594 Method MME
+
+S real T clipart Train Ep: 22200 lr0.004160141438467499 	 Loss Classification: 0.134862 Loss T 0.037461 Method MME
+
+S real T clipart Train Ep: 22300 lr0.004150477924193236 	 Loss Classification: 0.687738 Loss T 0.059551 Method MME
+
+S real T clipart Train Ep: 22400 lr0.00414086662499961 	 Loss Classification: 0.329175 Loss T 0.037641 Method MME
+
+S real T clipart Train Ep: 22500 lr0.004131307098896385 	 Loss Classification: 0.287400 Loss T 0.044112 Method MME
+
+acc_ori: 77.4114, acc_ifsl: 0.7929, acc_ifsl: 77.3513, acc_fixed: 77.4114, 
+Accuracy_ori: 14157, Accuracy_ifsl: 145, Accuracy_fuse: 14146, Accuracy_fixed: 14157, size: 18288, 
+acc_ori: 77.7778, acc_ifsl: 0.2778, acc_ifsl: 77.5000, acc_fixed: 77.7778, 
+Accuracy_ori: 280, Accuracy_ifsl: 1, Accuracy_fuse: 279, Accuracy_fixed: 280, size: 360, 
+current acc test 77.411417 current acc val 77.777778
+best acc test 77.411417 best acc val 77.777778
+saving model
+S real T clipart Train Ep: 22600 lr0.0041217989089795196 	 Loss Classification: 0.296697 Loss T 0.038108 Method MME
+
+S real T clipart Train Ep: 22700 lr0.004112341623357265 	 Loss Classification: 0.231122 Loss T 0.041846 Method MME
+
+S real T clipart Train Ep: 22800 lr0.004102934815077543 	 Loss Classification: 0.147562 Loss T 0.033646 Method MME
+
+S real T clipart Train Ep: 22900 lr0.004093578062056604 	 Loss Classification: 0.257672 Loss T 0.038474 Method MME
+
+S real T clipart Train Ep: 23000 lr0.00408427094700893 	 Loss Classification: 0.265407 Loss T 0.045694 Method MME
+
+acc_ori: 77.3731, acc_ifsl: 1.0116, acc_ifsl: 77.3567, acc_fixed: 77.3731, 
+Accuracy_ori: 14150, Accuracy_ifsl: 185, Accuracy_fuse: 14147, Accuracy_fixed: 14150, size: 18288, 
+acc_ori: 75.8333, acc_ifsl: 0.5556, acc_ifsl: 75.2778, acc_fixed: 75.8333, 
+Accuracy_ori: 273, Accuracy_ifsl: 2, Accuracy_fuse: 271, Accuracy_fixed: 273, size: 360, 
+current acc test 77.411417 current acc val 77.777778
+best acc test 77.411417 best acc val 75.833333
+saving model
+S real T clipart Train Ep: 23100 lr0.004075013057378346 	 Loss Classification: 0.280527 Loss T 0.038005 Method MME
+
+S real T clipart Train Ep: 23200 lr0.004065803985270331 	 Loss Classification: 0.179989 Loss T 0.036982 Method MME
+
+S real T clipart Train Ep: 23300 lr0.004056643327385506 	 Loss Classification: 0.163904 Loss T 0.051005 Method MME
+
+S real T clipart Train Ep: 23400 lr0.004047530684954247 	 Loss Classification: 0.419343 Loss T 0.036296 Method MME
+
+S real T clipart Train Ep: 23500 lr0.0040384656636724406 	 Loss Classification: 0.177491 Loss T 0.055119 Method MME
+
+acc_ori: 77.3895, acc_ifsl: 0.8804, acc_ifsl: 77.4059, acc_fixed: 77.3895, 
+Accuracy_ori: 14153, Accuracy_ifsl: 161, Accuracy_fuse: 14156, Accuracy_fixed: 14153, size: 18288, 
+acc_ori: 76.1111, acc_ifsl: 0.2778, acc_ifsl: 76.1111, acc_fixed: 76.1111, 
+Accuracy_ori: 274, Accuracy_ifsl: 1, Accuracy_fuse: 274, Accuracy_fixed: 274, size: 360, 
+current acc test 77.411417 current acc val 77.777778
+best acc test 77.411417 best acc val 76.111111
+saving model
+S real T clipart Train Ep: 23600 lr0.004029447873638333 	 Loss Classification: 0.261809 Loss T 0.052559 Method MME
+
+S real T clipart Train Ep: 23700 lr0.00402047692929045 	 Loss Classification: 0.164931 Loss T 0.056247 Method MME
+
+S real T clipart Train Ep: 23800 lr0.004011552449346588 	 Loss Classification: 0.517933 Loss T 0.041567 Method MME
+
+S real T clipart Train Ep: 23900 lr0.004002674056743821 	 Loss Classification: 0.437761 Loss T 0.035562 Method MME
+
+S real T clipart Train Ep: 24000 lr0.0039938413785795416 	 Loss Classification: 0.241256 Loss T 0.038507 Method MME
+
+acc_ori: 77.3239, acc_ifsl: 0.7601, acc_ifsl: 77.2638, acc_fixed: 77.3239, 
+Accuracy_ori: 14141, Accuracy_ifsl: 139, Accuracy_fuse: 14130, Accuracy_fixed: 14141, size: 18288, 
+acc_ori: 75.2778, acc_ifsl: 0.5556, acc_ifsl: 74.7222, acc_fixed: 75.2778, 
+Accuracy_ori: 271, Accuracy_ifsl: 2, Accuracy_fuse: 269, Accuracy_fixed: 271, size: 360, 
+current acc test 77.411417 current acc val 77.777778
+best acc test 77.411417 best acc val 75.277778
+saving model
+S real T clipart Train Ep: 24100 lr0.003985054046053481 	 Loss Classification: 0.230941 Loss T 0.039355 Method MME
+
+S real T clipart Train Ep: 24200 lr0.003976311694410721 	 Loss Classification: 0.145594 Loss T 0.045367 Method MME
+
+S real T clipart Train Ep: 24300 lr0.00396761396288564 	 Loss Classification: 0.351636 Loss T 0.027472 Method MME
+
+S real T clipart Train Ep: 24400 lr0.003958960494646819 	 Loss Classification: 0.317023 Loss T 0.032652 Method MME
+
+S real T clipart Train Ep: 24500 lr0.0039503509367428465 	 Loss Classification: 0.208081 Loss T 0.053335 Method MME
+
+acc_ori: 77.2966, acc_ifsl: 0.9788, acc_ifsl: 77.3349, acc_fixed: 77.2966, 
+Accuracy_ori: 14136, Accuracy_ifsl: 179, Accuracy_fuse: 14143, Accuracy_fixed: 14136, size: 18288, 
+acc_ori: 76.3889, acc_ifsl: 0.2778, acc_ifsl: 76.6667, acc_fixed: 76.3889, 
+Accuracy_ori: 275, Accuracy_ifsl: 1, Accuracy_fuse: 276, Accuracy_fixed: 275, size: 360, 
+current acc test 77.411417 current acc val 77.777778
+best acc test 77.411417 best acc val 76.388889
+saving model
+S real T clipart Train Ep: 24600 lr0.00394178494004904 	 Loss Classification: 0.293579 Loss T 0.037009 Method MME
+
+S real T clipart Train Ep: 24700 lr0.003933262159215038 	 Loss Classification: 0.189856 Loss T 0.045287 Method MME
+
+S real T clipart Train Ep: 24800 lr0.00392478225261327 	 Loss Classification: 0.202570 Loss T 0.047024 Method MME
+
+S real T clipart Train Ep: 24900 lr0.003916344882288264 	 Loss Classification: 0.602252 Loss T 0.046873 Method MME
+
+S real T clipart Train Ep: 25000 lr0.003907949713906802 	 Loss Classification: 0.182375 Loss T 0.048865 Method MME
+
+acc_ori: 77.2966, acc_ifsl: 0.7546, acc_ifsl: 77.3130, acc_fixed: 77.2966, 
+Accuracy_ori: 14136, Accuracy_ifsl: 138, Accuracy_fuse: 14139, Accuracy_fixed: 14136, size: 18288, 
+acc_ori: 76.6667, acc_ifsl: 0.2778, acc_ifsl: 76.3889, acc_fixed: 76.6667, 
+Accuracy_ori: 276, Accuracy_ifsl: 1, Accuracy_fuse: 275, Accuracy_fixed: 276, size: 360, 
+current acc test 77.411417 current acc val 77.777778
+best acc test 77.411417 best acc val 76.666667
+saving model
+S real T clipart Train Ep: 25100 lr0.003899596416708869 	 Loss Classification: 0.204036 Loss T 0.038538 Method MME
+
+S real T clipart Train Ep: 25200 lr0.0038912846634594346 	 Loss Classification: 0.605536 Loss T 0.035193 Method MME
+
+S real T clipart Train Ep: 25300 lr0.0038830141304009892 	 Loss Classification: 0.260479 Loss T 0.045398 Method MME
+
+S real T clipart Train Ep: 25400 lr0.003874784497206876 	 Loss Classification: 0.278733 Loss T 0.039707 Method MME
+
+S real T clipart Train Ep: 25500 lr0.003866595446935362 	 Loss Classification: 0.125359 Loss T 0.032571 Method MME
+
+acc_ori: 77.3185, acc_ifsl: 0.9788, acc_ifsl: 77.3185, acc_fixed: 77.3185, 
+Accuracy_ori: 14140, Accuracy_ifsl: 179, Accuracy_fuse: 14140, Accuracy_fixed: 14140, size: 18288, 
+acc_ori: 76.9444, acc_ifsl: 0.0000, acc_ifsl: 76.6667, acc_fixed: 76.9444, 
+Accuracy_ori: 277, Accuracy_ifsl: 0, Accuracy_fuse: 276, Accuracy_fixed: 277, size: 360, 
+current acc test 77.411417 current acc val 77.777778
+best acc test 77.411417 best acc val 76.944444
+saving model
+S real T clipart Train Ep: 25600 lr0.003858446665984465 	 Loss Classification: 0.314709 Loss T 0.041794 Method MME
+
+S real T clipart Train Ep: 25700 lr0.0038503378440474917 	 Loss Classification: 0.346245 Loss T 0.052473 Method MME
+
+S real T clipart Train Ep: 25800 lr0.003842268674069313 	 Loss Classification: 0.202250 Loss T 0.032359 Method MME
+
+S real T clipart Train Ep: 25900 lr0.0038342388522033147 	 Loss Classification: 0.380332 Loss T 0.043443 Method MME
+
+S real T clipart Train Ep: 26000 lr0.0038262480777690546 	 Loss Classification: 0.329992 Loss T 0.039572 Method MME
+
+acc_ori: 77.4716, acc_ifsl: 1.0499, acc_ifsl: 77.4661, acc_fixed: 77.4716, 
+Accuracy_ori: 14168, Accuracy_ifsl: 192, Accuracy_fuse: 14167, Accuracy_fixed: 14168, size: 18288, 
+acc_ori: 76.3889, acc_ifsl: 1.1111, acc_ifsl: 76.9444, acc_fixed: 76.3889, 
+Accuracy_ori: 275, Accuracy_ifsl: 4, Accuracy_fuse: 277, Accuracy_fixed: 275, size: 360, 
+current acc test 77.471566 current acc val 76.388889
+best acc test 77.411417 best acc val 76.388889
+saving model
+S real T clipart Train Ep: 26100 lr0.0038182960532105875 	 Loss Classification: 0.187201 Loss T 0.054872 Method MME
+
+S real T clipart Train Ep: 26200 lr0.0038103824840554513 	 Loss Classification: 0.272828 Loss T 0.042274 Method MME
+
+S real T clipart Train Ep: 26300 lr0.0038025070788743048 	 Loss Classification: 0.428029 Loss T 0.036610 Method MME
+
+S real T clipart Train Ep: 26400 lr0.003794669549241204 	 Loss Classification: 0.378802 Loss T 0.061194 Method MME
+
+S real T clipart Train Ep: 26500 lr0.0037868696096944997 	 Loss Classification: 0.273763 Loss T 0.033721 Method MME
+
+acc_ori: 77.3622, acc_ifsl: 1.3342, acc_ifsl: 77.3731, acc_fixed: 77.3622, 
+Accuracy_ori: 14148, Accuracy_ifsl: 244, Accuracy_fuse: 14150, Accuracy_fixed: 14148, size: 18288, 
+acc_ori: 76.9444, acc_ifsl: 1.3889, acc_ifsl: 76.6667, acc_fixed: 76.9444, 
+Accuracy_ori: 277, Accuracy_ifsl: 5, Accuracy_fuse: 276, Accuracy_fixed: 277, size: 360, 
+current acc test 77.471566 current acc val 76.388889
+best acc test 77.411417 best acc val 76.944444
+saving model
+S real T clipart Train Ep: 26600 lr0.00377910697769836 	 Loss Classification: 0.328399 Loss T 0.045938 Method MME
+
+S real T clipart Train Ep: 26700 lr0.0037713813736048834 	 Loss Classification: 0.452216 Loss T 0.034203 Method MME
+
+S real T clipart Train Ep: 26800 lr0.0037636925206168117 	 Loss Classification: 0.343699 Loss T 0.035136 Method MME
+
+S real T clipart Train Ep: 26900 lr0.0037560401447508216 	 Loss Classification: 0.282969 Loss T 0.047433 Method MME
+
+S real T clipart Train Ep: 27000 lr0.003748423974801389 	 Loss Classification: 0.141109 Loss T 0.033401 Method MME
+
+acc_ori: 77.3677, acc_ifsl: 1.2139, acc_ifsl: 77.3513, acc_fixed: 77.3677, 
+Accuracy_ori: 14149, Accuracy_ifsl: 222, Accuracy_fuse: 14146, Accuracy_fixed: 14149, size: 18288, 
+acc_ori: 78.0556, acc_ifsl: 0.8333, acc_ifsl: 77.2222, acc_fixed: 78.0556, 
+Accuracy_ori: 281, Accuracy_ifsl: 3, Accuracy_fuse: 278, Accuracy_fixed: 281, size: 360, 
+current acc test 77.471566 current acc val 76.388889
+best acc test 77.367673 best acc val 78.055556
+saving model
+S real T clipart Train Ep: 27100 lr0.003740843742305213 	 Loss Classification: 0.248025 Loss T 0.063588 Method MME
+
+S real T clipart Train Ep: 27200 lr0.0037332991815061845 	 Loss Classification: 0.395492 Loss T 0.050803 Method MME
+
+S real T clipart Train Ep: 27300 lr0.003725790029320905 	 Loss Classification: 0.276863 Loss T 0.042597 Method MME
+
+S real T clipart Train Ep: 27400 lr0.0037183160253047272 	 Loss Classification: 0.414520 Loss T 0.046776 Method MME
+
+S real T clipart Train Ep: 27500 lr0.003710876911618321 	 Loss Classification: 0.467234 Loss T 0.033181 Method MME
+
+acc_ori: 77.3786, acc_ifsl: 1.0389, acc_ifsl: 77.3130, acc_fixed: 77.3786, 
+Accuracy_ori: 14151, Accuracy_ifsl: 190, Accuracy_fuse: 14139, Accuracy_fixed: 14151, size: 18288, 
+acc_ori: 75.5556, acc_ifsl: 0.5556, acc_ifsl: 76.1111, acc_fixed: 75.5556, 
+Accuracy_ori: 272, Accuracy_ifsl: 2, Accuracy_fuse: 274, Accuracy_fixed: 272, size: 360, 
+current acc test 77.471566 current acc val 76.388889
+best acc test 77.367673 best acc val 75.555556
+saving model
+S real T clipart Train Ep: 27600 lr0.0037034724329947483 	 Loss Classification: 0.381489 Loss T 0.042579 Method MME
+
+S real T clipart Train Ep: 27700 lr0.0036961023367070435 	 Loss Classification: 0.410903 Loss T 0.045293 Method MME
+
+S real T clipart Train Ep: 27800 lr0.003688766372536283 	 Loss Classification: 0.298235 Loss T 0.045128 Method MME
+
+S real T clipart Train Ep: 27900 lr0.0036814642927401444 	 Loss Classification: 0.448078 Loss T 0.052319 Method MME
+
+S real T clipart Train Ep: 28000 lr0.003674195852021934 	 Loss Classification: 0.180097 Loss T 0.030987 Method MME
+
+acc_ori: 77.4770, acc_ifsl: 0.9897, acc_ifsl: 77.5208, acc_fixed: 77.4770, 
+Accuracy_ori: 14169, Accuracy_ifsl: 181, Accuracy_fuse: 14177, Accuracy_fixed: 14169, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 1.1111, acc_ifsl: 76.9444, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 4, Accuracy_fuse: 277, Accuracy_fixed: 279, size: 360, 
+current acc test 77.477034 current acc val 77.500000
+best acc test 77.367673 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 28100 lr0.0036669608075000928 	 Loss Classification: 0.644076 Loss T 0.041143 Method MME
+
+S real T clipart Train Ep: 28200 lr0.00365975891867815 	 Loss Classification: 0.253204 Loss T 0.059665 Method MME
+
+S real T clipart Train Ep: 28300 lr0.003652589947415138 	 Loss Classification: 0.418033 Loss T 0.035896 Method MME
+
+S real T clipart Train Ep: 28400 lr0.0036454536578964408 	 Loss Classification: 0.234373 Loss T 0.042522 Method MME
+
+S real T clipart Train Ep: 28500 lr0.0036383498166050877 	 Loss Classification: 0.227859 Loss T 0.038281 Method MME
+
+acc_ori: 77.4442, acc_ifsl: 0.9460, acc_ifsl: 77.4716, acc_fixed: 77.4442, 
+Accuracy_ori: 14163, Accuracy_ifsl: 173, Accuracy_fuse: 14168, Accuracy_fixed: 14163, size: 18288, 
+acc_ori: 75.2778, acc_ifsl: 1.1111, acc_ifsl: 76.1111, acc_fixed: 75.2778, 
+Accuracy_ori: 271, Accuracy_ifsl: 4, Accuracy_fuse: 274, Accuracy_fixed: 271, size: 360, 
+current acc test 77.477034 current acc val 77.500000
+best acc test 77.367673 best acc val 75.277778
+saving model
+S real T clipart Train Ep: 28600 lr0.0036312781922934662 	 Loss Classification: 0.393567 Loss T 0.023849 Method MME
+
+S real T clipart Train Ep: 28700 lr0.003624238555955462 	 Loss Classification: 0.371073 Loss T 0.039799 Method MME
+
+S real T clipart Train Ep: 28800 lr0.003617230680799007 	 Loss Classification: 0.333295 Loss T 0.042901 Method MME
+
+S real T clipart Train Ep: 28900 lr0.0036102543422190363 	 Loss Classification: 0.310812 Loss T 0.024534 Method MME
+
+S real T clipart Train Ep: 29000 lr0.003603309317770844 	 Loss Classification: 0.225412 Loss T 0.033793 Method MME
+
+acc_ori: 77.5809, acc_ifsl: 0.6780, acc_ifsl: 77.5973, acc_fixed: 77.5809, 
+Accuracy_ori: 14188, Accuracy_ifsl: 124, Accuracy_fuse: 14191, Accuracy_fixed: 14188, size: 18288, 
+acc_ori: 77.7778, acc_ifsl: 0.0000, acc_ifsl: 78.3333, acc_fixed: 77.7778, 
+Accuracy_ori: 280, Accuracy_ifsl: 0, Accuracy_fuse: 282, Accuracy_fixed: 280, size: 360, 
+current acc test 77.580927 current acc val 77.777778
+best acc test 77.367673 best acc val 77.777778
+saving model
+S real T clipart Train Ep: 29100 lr0.0035963953871438275 	 Loss Classification: 0.180943 Loss T 0.027995 Method MME
+
+S real T clipart Train Ep: 29200 lr0.0035895123321356215 	 Loss Classification: 0.345169 Loss T 0.039916 Method MME
+
+S real T clipart Train Ep: 29300 lr0.003582659936626608 	 Loss Classification: 0.329013 Loss T 0.054306 Method MME
+
+S real T clipart Train Ep: 29400 lr0.0035758379865547998 	 Loss Classification: 0.417935 Loss T 0.030835 Method MME
+
+S real T clipart Train Ep: 29500 lr0.0035690462698910875 	 Loss Classification: 0.189840 Loss T 0.043195 Method MME
+
+acc_ori: 77.5645, acc_ifsl: 0.6999, acc_ifsl: 77.5700, acc_fixed: 77.5645, 
+Accuracy_ori: 14185, Accuracy_ifsl: 128, Accuracy_fuse: 14186, Accuracy_fixed: 14185, size: 18288, 
+acc_ori: 76.3889, acc_ifsl: 0.5556, acc_ifsl: 76.3889, acc_fixed: 76.3889, 
+Accuracy_ori: 275, Accuracy_ifsl: 2, Accuracy_fuse: 275, Accuracy_fixed: 275, size: 360, 
+current acc test 77.580927 current acc val 77.777778
+best acc test 77.367673 best acc val 76.388889
+saving model
+S real T clipart Train Ep: 29600 lr0.0035622845766148485 	 Loss Classification: 0.252565 Loss T 0.068043 Method MME
+
+S real T clipart Train Ep: 29700 lr0.0035555526986899093 	 Loss Classification: 0.386974 Loss T 0.036185 Method MME
+
+S real T clipart Train Ep: 29800 lr0.0035488504300408524 	 Loss Classification: 0.253045 Loss T 0.055103 Method MME
+
+S real T clipart Train Ep: 29900 lr0.0035421775665296674 	 Loss Classification: 0.138330 Loss T 0.032433 Method MME
+
+S real T clipart Train Ep: 30000 lr0.003535533905932738 	 Loss Classification: 0.289662 Loss T 0.044868 Method MME
+
+acc_ori: 77.7286, acc_ifsl: 1.0608, acc_ifsl: 77.7286, acc_fixed: 77.7286, 
+Accuracy_ori: 14215, Accuracy_ifsl: 194, Accuracy_fuse: 14215, Accuracy_fixed: 14215, size: 18288, 
+acc_ori: 76.6667, acc_ifsl: 0.5556, acc_ifsl: 76.9444, acc_fixed: 76.6667, 
+Accuracy_ori: 276, Accuracy_ifsl: 2, Accuracy_fuse: 277, Accuracy_fixed: 276, size: 360, 
+current acc test 77.728565 current acc val 76.666667
+best acc test 77.367673 best acc val 76.666667
+saving model
+S real T clipart Train Ep: 30100 lr0.0035289192479181558 	 Loss Classification: 0.480705 Loss T 0.024676 Method MME
+
+S real T clipart Train Ep: 30200 lr0.003522333394023364 	 Loss Classification: 0.330412 Loss T 0.037388 Method MME
+
+S real T clipart Train Ep: 30300 lr0.0035157761476331158 	 Loss Classification: 0.263606 Loss T 0.035984 Method MME
+
+S real T clipart Train Ep: 30400 lr0.003509247313957748 	 Loss Classification: 0.296620 Loss T 0.038308 Method MME
+
+S real T clipart Train Ep: 30500 lr0.003502746700011762 	 Loss Classification: 0.331214 Loss T 0.043115 Method MME
+
+acc_ori: 77.4388, acc_ifsl: 0.8530, acc_ifsl: 77.4934, acc_fixed: 77.4388, 
+Accuracy_ori: 14162, Accuracy_ifsl: 156, Accuracy_fuse: 14172, Accuracy_fixed: 14162, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 1.1111, acc_ifsl: 77.2222, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 4, Accuracy_fuse: 278, Accuracy_fixed: 279, size: 360, 
+current acc test 77.728565 current acc val 76.666667
+best acc test 77.367673 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 30600 lr0.003496274114592713 	 Loss Classification: 0.161453 Loss T 0.030697 Method MME
+
+S real T clipart Train Ep: 30700 lr0.0034898293682603908 	 Loss Classification: 0.355793 Loss T 0.027601 Method MME
+
+S real T clipart Train Ep: 30800 lr0.0034834122733162975 	 Loss Classification: 0.400797 Loss T 0.047868 Method MME
+
+S real T clipart Train Ep: 30900 lr0.0034770226437834152 	 Loss Classification: 0.513709 Loss T 0.032300 Method MME
+
+S real T clipart Train Ep: 31000 lr0.003470660295386255 	 Loss Classification: 0.166854 Loss T 0.026782 Method MME
+
+acc_ori: 77.7559, acc_ifsl: 0.8038, acc_ifsl: 77.7559, acc_fixed: 77.7559, 
+Accuracy_ori: 14220, Accuracy_ifsl: 147, Accuracy_fuse: 14220, Accuracy_fixed: 14220, size: 18288, 
+acc_ori: 76.9444, acc_ifsl: 0.8333, acc_ifsl: 76.9444, acc_fixed: 76.9444, 
+Accuracy_ori: 277, Accuracy_ifsl: 3, Accuracy_fuse: 277, Accuracy_fixed: 277, size: 360, 
+current acc test 77.755906 current acc val 76.944444
+best acc test 77.367673 best acc val 76.944444
+saving model
+S real T clipart Train Ep: 31100 lr0.0034643250455311855 	 Loss Classification: 0.201992 Loss T 0.031384 Method MME
+
+S real T clipart Train Ep: 31200 lr0.0034580167132870383 	 Loss Classification: 0.414072 Loss T 0.043130 Method MME
+
+S real T clipart Train Ep: 31300 lr0.00345173511936598 	 Loss Classification: 0.165641 Loss T 0.031797 Method MME
+
+S real T clipart Train Ep: 31400 lr0.0034454800861046533 	 Loss Classification: 0.352911 Loss T 0.044069 Method MME
+
+S real T clipart Train Ep: 31500 lr0.003439251437445577 	 Loss Classification: 0.178948 Loss T 0.048640 Method MME
+
+acc_ori: 77.5372, acc_ifsl: 1.0608, acc_ifsl: 77.5700, acc_fixed: 77.5372, 
+Accuracy_ori: 14180, Accuracy_ifsl: 194, Accuracy_fuse: 14186, Accuracy_fixed: 14180, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 0.2778, acc_ifsl: 77.5000, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 1, Accuracy_fuse: 279, Accuracy_fixed: 279, size: 360, 
+current acc test 77.755906 current acc val 76.944444
+best acc test 77.367673 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 31600 lr0.0034330489989188046 	 Loss Classification: 0.505824 Loss T 0.045469 Method MME
+
+S real T clipart Train Ep: 31700 lr0.0034268725976238346 	 Loss Classification: 0.118487 Loss T 0.044992 Method MME
+
+S real T clipart Train Ep: 31800 lr0.003420722062211772 	 Loss Classification: 0.172290 Loss T 0.048696 Method MME
+
+S real T clipart Train Ep: 31900 lr0.0034145972228677326 	 Loss Classification: 0.318223 Loss T 0.046433 Method MME
+
+S real T clipart Train Ep: 32000 lr0.0034084979112934868 	 Loss Classification: 0.291825 Loss T 0.031137 Method MME
+
+acc_ori: 77.5809, acc_ifsl: 1.0499, acc_ifsl: 77.6301, acc_fixed: 77.5809, 
+Accuracy_ori: 14188, Accuracy_ifsl: 192, Accuracy_fuse: 14197, Accuracy_fixed: 14188, size: 18288, 
+acc_ori: 76.6667, acc_ifsl: 1.3889, acc_ifsl: 76.9444, acc_fixed: 76.6667, 
+Accuracy_ori: 276, Accuracy_ifsl: 5, Accuracy_fuse: 277, Accuracy_fixed: 276, size: 360, 
+current acc test 77.755906 current acc val 76.944444
+best acc test 77.367673 best acc val 76.666667
+saving model
+S real T clipart Train Ep: 32100 lr0.003402423960690348 	 Loss Classification: 0.299948 Loss T 0.037797 Method MME
+
+S real T clipart Train Ep: 32200 lr0.0033963752057422827 	 Loss Classification: 0.252226 Loss T 0.033265 Method MME
+
+S real T clipart Train Ep: 32300 lr0.003390351482599261 	 Loss Classification: 0.154030 Loss T 0.034666 Method MME
+
+S real T clipart Train Ep: 32400 lr0.003384352628860824 	 Loss Classification: 0.270649 Loss T 0.044622 Method MME
+
+S real T clipart Train Ep: 32500 lr0.003378378483559883 	 Loss Classification: 0.156882 Loss T 0.047858 Method MME
+
+acc_ori: 77.7395, acc_ifsl: 0.7054, acc_ifsl: 77.7340, acc_fixed: 77.7395, 
+Accuracy_ori: 14217, Accuracy_ifsl: 129, Accuracy_fuse: 14216, Accuracy_fixed: 14217, size: 18288, 
+acc_ori: 77.7778, acc_ifsl: 0.2778, acc_ifsl: 78.0556, acc_fixed: 77.7778, 
+Accuracy_ori: 280, Accuracy_ifsl: 1, Accuracy_fuse: 281, Accuracy_fixed: 280, size: 360, 
+current acc test 77.755906 current acc val 76.944444
+best acc test 77.367673 best acc val 77.777778
+saving model
+S real T clipart Train Ep: 32600 lr0.0033724288871467283 	 Loss Classification: 0.231090 Loss T 0.031686 Method MME
+
+S real T clipart Train Ep: 32700 lr0.003366503681473259 	 Loss Classification: 0.393397 Loss T 0.038205 Method MME
+
+S real T clipart Train Ep: 32800 lr0.0033606027097774233 	 Loss Classification: 0.240405 Loss T 0.036690 Method MME
+
+S real T clipart Train Ep: 32900 lr0.003354725816667868 	 Loss Classification: 0.266484 Loss T 0.036127 Method MME
+
+S real T clipart Train Ep: 33000 lr0.00334887284810879 	 Loss Classification: 0.231545 Loss T 0.053431 Method MME
+
+acc_ori: 77.6465, acc_ifsl: 0.7327, acc_ifsl: 77.5864, acc_fixed: 77.6465, 
+Accuracy_ori: 14200, Accuracy_ifsl: 134, Accuracy_fuse: 14189, Accuracy_fixed: 14200, size: 18288, 
+acc_ori: 78.0556, acc_ifsl: 0.5556, acc_ifsl: 78.3333, acc_fixed: 78.0556, 
+Accuracy_ori: 281, Accuracy_ifsl: 2, Accuracy_fuse: 282, Accuracy_fixed: 281, size: 360, 
+current acc test 77.755906 current acc val 76.944444
+best acc test 77.646544 best acc val 78.055556
+saving model
+S real T clipart Train Ep: 33100 lr0.003343043651404997 	 Loss Classification: 0.115741 Loss T 0.026893 Method MME
+
+S real T clipart Train Ep: 33200 lr0.0033372380751871583 	 Loss Classification: 0.195664 Loss T 0.023127 Method MME
+
+S real T clipart Train Ep: 33300 lr0.0033314559693972583 	 Loss Classification: 0.235816 Loss T 0.025993 Method MME
+
+S real T clipart Train Ep: 33400 lr0.0033256971852742394 	 Loss Classification: 0.288186 Loss T 0.047013 Method MME
+
+S real T clipart Train Ep: 33500 lr0.0033199615753398367 	 Loss Classification: 0.379430 Loss T 0.029417 Method MME
+
+acc_ori: 77.7395, acc_ifsl: 0.6562, acc_ifsl: 77.6356, acc_fixed: 77.7395, 
+Accuracy_ori: 14217, Accuracy_ifsl: 120, Accuracy_fuse: 14198, Accuracy_fixed: 14217, size: 18288, 
+acc_ori: 75.8333, acc_ifsl: 1.1111, acc_ifsl: 76.3889, acc_fixed: 75.8333, 
+Accuracy_ori: 273, Accuracy_ifsl: 4, Accuracy_fuse: 275, Accuracy_fixed: 273, size: 360, 
+current acc test 77.755906 current acc val 76.944444
+best acc test 77.646544 best acc val 75.833333
+saving model
+S real T clipart Train Ep: 33600 lr0.0033142489933845978 	 Loss Classification: 0.206679 Loss T 0.051882 Method MME
+
+S real T clipart Train Ep: 33700 lr0.0033085592944540883 	 Loss Classification: 0.108593 Loss T 0.032827 Method MME
+
+S real T clipart Train Ep: 33800 lr0.003302892334835276 	 Loss Classification: 0.418597 Loss T 0.038522 Method MME
+
+S real T clipart Train Ep: 33900 lr0.003297247972043097 	 Loss Classification: 0.210071 Loss T 0.049198 Method MME
+
+S real T clipart Train Ep: 34000 lr0.0032916260648071937 	 Loss Classification: 0.142732 Loss T 0.049710 Method MME
+
+acc_ori: 77.7122, acc_ifsl: 0.5140, acc_ifsl: 77.6520, acc_fixed: 77.7122, 
+Accuracy_ori: 14212, Accuracy_ifsl: 94, Accuracy_fuse: 14201, Accuracy_fixed: 14212, size: 18288, 
+acc_ori: 78.3333, acc_ifsl: 0.8333, acc_ifsl: 78.3333, acc_fixed: 78.3333, 
+Accuracy_ori: 282, Accuracy_ifsl: 3, Accuracy_fuse: 282, Accuracy_fixed: 282, size: 360, 
+current acc test 77.755906 current acc val 76.944444
+best acc test 77.712161 best acc val 78.333333
+saving model
+S real T clipart Train Ep: 34100 lr0.0032860264730588296 	 Loss Classification: 0.242990 Loss T 0.023492 Method MME
+
+S real T clipart Train Ep: 34200 lr0.003280449057917969 	 Loss Classification: 0.205428 Loss T 0.032455 Method MME
+
+S real T clipart Train Ep: 34300 lr0.0032748936816805302 	 Loss Classification: 0.158055 Loss T 0.046464 Method MME
+
+S real T clipart Train Ep: 34400 lr0.0032693602078058027 	 Loss Classification: 0.379225 Loss T 0.025543 Method MME
+
+S real T clipart Train Ep: 34500 lr0.0032638485009040203 	 Loss Classification: 0.277276 Loss T 0.034442 Method MME
+
+acc_ori: 77.8161, acc_ifsl: 0.6288, acc_ifsl: 77.7778, acc_fixed: 77.8161, 
+Accuracy_ori: 14231, Accuracy_ifsl: 115, Accuracy_fuse: 14224, Accuracy_fixed: 14231, size: 18288, 
+acc_ori: 76.6667, acc_ifsl: 0.5556, acc_ifsl: 76.3889, acc_fixed: 76.6667, 
+Accuracy_ori: 276, Accuracy_ifsl: 2, Accuracy_fuse: 275, Accuracy_fixed: 276, size: 360, 
+current acc test 77.816054 current acc val 76.666667
+best acc test 77.712161 best acc val 76.666667
+saving model
+S real T clipart Train Ep: 34600 lr0.0032583584267241073 	 Loss Classification: 0.156450 Loss T 0.039889 Method MME
+
+S real T clipart Train Ep: 34700 lr0.0032528898521415684 	 Loss Classification: 0.248037 Loss T 0.041158 Method MME
+
+S real T clipart Train Ep: 34800 lr0.0032474426451465444 	 Loss Classification: 0.268479 Loss T 0.054775 Method MME
+
+S real T clipart Train Ep: 34900 lr0.0032420166748320153 	 Loss Classification: 0.351794 Loss T 0.030105 Method MME
+
+S real T clipart Train Ep: 35000 lr0.0032366118113821563 	 Loss Classification: 0.271002 Loss T 0.020171 Method MME
+
+acc_ori: 77.7286, acc_ifsl: 0.3664, acc_ifsl: 77.7176, acc_fixed: 77.7286, 
+Accuracy_ori: 14215, Accuracy_ifsl: 67, Accuracy_fuse: 14213, Accuracy_fixed: 14215, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 0.2778, acc_ifsl: 78.0556, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 1, Accuracy_fuse: 281, Accuracy_fixed: 279, size: 360, 
+current acc test 77.816054 current acc val 76.666667
+best acc test 77.712161 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 35100 lr0.0032312279260608436 	 Loss Classification: 0.330543 Loss T 0.033041 Method MME
+
+S real T clipart Train Ep: 35200 lr0.0032258648912003012 	 Loss Classification: 0.109429 Loss T 0.039734 Method MME
+
+S real T clipart Train Ep: 35300 lr0.003220522580189901 	 Loss Classification: 0.221389 Loss T 0.040931 Method MME
+
+S real T clipart Train Ep: 35400 lr0.0032152008674650925 	 Loss Classification: 0.171009 Loss T 0.024349 Method MME
+
+S real T clipart Train Ep: 35500 lr0.0032098996284964853 	 Loss Classification: 0.258920 Loss T 0.035943 Method MME
+
+acc_ori: 78.1715, acc_ifsl: 0.6616, acc_ifsl: 78.1387, acc_fixed: 78.1715, 
+Accuracy_ori: 14296, Accuracy_ifsl: 121, Accuracy_fuse: 14290, Accuracy_fixed: 14296, size: 18288, 
+acc_ori: 76.9444, acc_ifsl: 0.0000, acc_ifsl: 76.9444, acc_fixed: 76.9444, 
+Accuracy_ori: 277, Accuracy_ifsl: 0, Accuracy_fuse: 277, Accuracy_fixed: 277, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.712161 best acc val 76.944444
+saving model
+S real T clipart Train Ep: 35600 lr0.0032046187397790603 	 Loss Classification: 0.110359 Loss T 0.038988 Method MME
+
+S real T clipart Train Ep: 35700 lr0.0031993580788215194 	 Loss Classification: 0.149113 Loss T 0.036597 Method MME
+
+S real T clipart Train Ep: 35800 lr0.0031941175241357693 	 Loss Classification: 0.203532 Loss T 0.053332 Method MME
+
+S real T clipart Train Ep: 35900 lr0.0031888969552265386 	 Loss Classification: 0.347671 Loss T 0.040200 Method MME
+
+S real T clipart Train Ep: 36000 lr0.00318369625258112 	 Loss Classification: 0.325625 Loss T 0.022378 Method MME
+
+acc_ori: 77.9418, acc_ifsl: 0.4429, acc_ifsl: 77.9746, acc_fixed: 77.9418, 
+Accuracy_ori: 14254, Accuracy_ifsl: 81, Accuracy_fuse: 14260, Accuracy_fixed: 14254, size: 18288, 
+acc_ori: 77.2222, acc_ifsl: 0.5556, acc_ifsl: 77.5000, acc_fixed: 77.2222, 
+Accuracy_ori: 278, Accuracy_ifsl: 2, Accuracy_fuse: 279, Accuracy_fixed: 278, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.712161 best acc val 77.222222
+saving model
+S real T clipart Train Ep: 36100 lr0.0031785152976592465 	 Loss Classification: 0.205326 Loss T 0.036284 Method MME
+
+S real T clipart Train Ep: 36200 lr0.0031733539728830895 	 Loss Classification: 0.144480 Loss T 0.032015 Method MME
+
+S real T clipart Train Ep: 36300 lr0.003168212161627382 	 Loss Classification: 0.107036 Loss T 0.022133 Method MME
+
+S real T clipart Train Ep: 36400 lr0.0031630897482096652 	 Loss Classification: 0.169228 Loss T 0.032759 Method MME
+
+S real T clipart Train Ep: 36500 lr0.0031579866178806544 	 Loss Classification: 0.297542 Loss T 0.030177 Method MME
+
+acc_ori: 77.8871, acc_ifsl: 0.4538, acc_ifsl: 77.8762, acc_fixed: 77.8871, 
+Accuracy_ori: 14244, Accuracy_ifsl: 83, Accuracy_fuse: 14242, Accuracy_fixed: 14244, size: 18288, 
+acc_ori: 77.2222, acc_ifsl: 0.2778, acc_ifsl: 76.9444, acc_fixed: 77.2222, 
+Accuracy_ori: 278, Accuracy_ifsl: 1, Accuracy_fuse: 277, Accuracy_fixed: 278, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.712161 best acc val 77.222222
+saving model
+S real T clipart Train Ep: 36600 lr0.003152902656814724 	 Loss Classification: 0.285181 Loss T 0.044253 Method MME
+
+S real T clipart Train Ep: 36700 lr0.003147837752100511 	 Loss Classification: 0.209154 Loss T 0.031749 Method MME
+
+S real T clipart Train Ep: 36800 lr0.003142791791731634 	 Loss Classification: 0.248241 Loss T 0.041490 Method MME
+
+S real T clipart Train Ep: 36900 lr0.0031377646645975228 	 Loss Classification: 0.291410 Loss T 0.040062 Method MME
+
+S real T clipart Train Ep: 37000 lr0.003132756260474365 	 Loss Classification: 0.468615 Loss T 0.041656 Method MME
+
+acc_ori: 77.9473, acc_ifsl: 0.4757, acc_ifsl: 78.0949, acc_fixed: 77.9473, 
+Accuracy_ori: 14255, Accuracy_ifsl: 87, Accuracy_fuse: 14282, Accuracy_fixed: 14255, size: 18288, 
+acc_ori: 76.9444, acc_ifsl: 0.2778, acc_ifsl: 77.2222, acc_fixed: 76.9444, 
+Accuracy_ori: 277, Accuracy_ifsl: 1, Accuracy_fuse: 278, Accuracy_fixed: 277, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.712161 best acc val 76.944444
+saving model
+S real T clipart Train Ep: 37100 lr0.0031277664700161607 	 Loss Classification: 0.303053 Loss T 0.038923 Method MME
+
+S real T clipart Train Ep: 37200 lr0.003122795184745882 	 Loss Classification: 0.189190 Loss T 0.023131 Method MME
+
+S real T clipart Train Ep: 37300 lr0.003117842297046751 	 Loss Classification: 0.136816 Loss T 0.034703 Method MME
+
+S real T clipart Train Ep: 37400 lr0.0031129077001536103 	 Loss Classification: 0.338442 Loss T 0.042474 Method MME
+
+S real T clipart Train Ep: 37500 lr0.00310799128814441 	 Loss Classification: 0.120642 Loss T 0.030697 Method MME
+
+acc_ori: 77.8871, acc_ifsl: 0.5523, acc_ifsl: 77.8489, acc_fixed: 77.8871, 
+Accuracy_ori: 14244, Accuracy_ifsl: 101, Accuracy_fuse: 14237, Accuracy_fixed: 14244, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 0.2778, acc_ifsl: 77.7778, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 1, Accuracy_fuse: 280, Accuracy_fixed: 279, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.712161 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 37600 lr0.0031030929559317877 	 Loss Classification: 0.192793 Loss T 0.028264 Method MME
+
+S real T clipart Train Ep: 37700 lr0.003098212599254758 	 Loss Classification: 0.242186 Loss T 0.036829 Method MME
+
+S real T clipart Train Ep: 37800 lr0.003093350114670496 	 Loss Classification: 0.206651 Loss T 0.045774 Method MME
+
+S real T clipart Train Ep: 37900 lr0.003088505399546223 	 Loss Classification: 0.234063 Loss T 0.045856 Method MME
+
+S real T clipart Train Ep: 38000 lr0.0030836783520511884 	 Loss Classification: 0.315414 Loss T 0.031229 Method MME
+
+acc_ori: 77.9254, acc_ifsl: 0.4210, acc_ifsl: 77.9910, acc_fixed: 77.9254, 
+Accuracy_ori: 14251, Accuracy_ifsl: 77, Accuracy_fuse: 14263, Accuracy_fixed: 14251, size: 18288, 
+acc_ori: 78.3333, acc_ifsl: 0.5556, acc_ifsl: 78.3333, acc_fixed: 78.3333, 
+Accuracy_ori: 282, Accuracy_ifsl: 2, Accuracy_fuse: 282, Accuracy_fixed: 282, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.925416 best acc val 78.333333
+saving model
+S real T clipart Train Ep: 38100 lr0.0030788688711487463 	 Loss Classification: 0.163745 Loss T 0.020053 Method MME
+
+S real T clipart Train Ep: 38200 lr0.0030740768565885295 	 Loss Classification: 0.137691 Loss T 0.018955 Method MME
+
+S real T clipart Train Ep: 38300 lr0.0030693022088987133 	 Loss Classification: 0.296579 Loss T 0.033147 Method MME
+
+S real T clipart Train Ep: 38400 lr0.0030645448293783735 	 Loss Classification: 0.219385 Loss T 0.041522 Method MME
+
+S real T clipart Train Ep: 38500 lr0.0030598046200899344 	 Loss Classification: 0.348582 Loss T 0.038387 Method MME
+
+acc_ori: 77.9856, acc_ifsl: 0.5304, acc_ifsl: 77.9965, acc_fixed: 77.9856, 
+Accuracy_ori: 14262, Accuracy_ifsl: 97, Accuracy_fuse: 14264, Accuracy_fixed: 14262, size: 18288, 
+acc_ori: 77.2222, acc_ifsl: 0.5556, acc_ifsl: 77.5000, acc_fixed: 77.2222, 
+Accuracy_ori: 278, Accuracy_ifsl: 2, Accuracy_fuse: 279, Accuracy_fixed: 278, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.925416 best acc val 77.222222
+saving model
+S real T clipart Train Ep: 38600 lr0.0030550814838517073 	 Loss Classification: 0.240645 Loss T 0.047262 Method MME
+
+S real T clipart Train Ep: 38700 lr0.0030503753242305132 	 Loss Classification: 0.141052 Loss T 0.021555 Method MME
+
+S real T clipart Train Ep: 38800 lr0.003045686045534399 	 Loss Classification: 0.137545 Loss T 0.036903 Method MME
+
+S real T clipart Train Ep: 38900 lr0.003041013552805431 	 Loss Classification: 0.304183 Loss T 0.026584 Method MME
+
+S real T clipart Train Ep: 39000 lr0.003036357751812582 	 Loss Classification: 0.125924 Loss T 0.028918 Method MME
+
+acc_ori: 78.0184, acc_ifsl: 0.3718, acc_ifsl: 78.0457, acc_fixed: 78.0184, 
+Accuracy_ori: 14268, Accuracy_ifsl: 68, Accuracy_fuse: 14273, Accuracy_fixed: 14268, size: 18288, 
+acc_ori: 78.6111, acc_ifsl: 0.8333, acc_ifsl: 77.5000, acc_fixed: 78.6111, 
+Accuracy_ori: 283, Accuracy_ifsl: 3, Accuracy_fuse: 279, Accuracy_fixed: 283, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 78.018373 best acc val 78.611111
+saving model
+S real T clipart Train Ep: 39100 lr0.0030317185490446956 	 Loss Classification: 0.166965 Loss T 0.023859 Method MME
+
+S real T clipart Train Ep: 39200 lr0.0030270958517035324 	 Loss Classification: 0.234452 Loss T 0.024695 Method MME
+
+S real T clipart Train Ep: 39300 lr0.003022489567696903 	 Loss Classification: 0.180927 Loss T 0.023625 Method MME
+
+S real T clipart Train Ep: 39400 lr0.0030178996056318755 	 Loss Classification: 0.246201 Loss T 0.028177 Method MME
+
+S real T clipart Train Ep: 39500 lr0.0030133258748080622 	 Loss Classification: 0.152441 Loss T 0.026302 Method MME
+
+acc_ori: 77.8215, acc_ifsl: 0.5195, acc_ifsl: 77.8707, acc_fixed: 77.8215, 
+Accuracy_ori: 14232, Accuracy_ifsl: 95, Accuracy_fuse: 14241, Accuracy_fixed: 14232, size: 18288, 
+acc_ori: 78.8889, acc_ifsl: 0.2778, acc_ifsl: 78.3333, acc_fixed: 78.8889, 
+Accuracy_ori: 284, Accuracy_ifsl: 1, Accuracy_fuse: 282, Accuracy_fixed: 284, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.821522 best acc val 78.888889
+saving model
+S real T clipart Train Ep: 39600 lr0.0030087682852109887 	 Loss Classification: 0.194729 Loss T 0.037676 Method MME
+
+S real T clipart Train Ep: 39700 lr0.0030042267475055367 	 Loss Classification: 0.293770 Loss T 0.028006 Method MME
+
+S real T clipart Train Ep: 39800 lr0.0029997011730294593 	 Loss Classification: 0.129865 Loss T 0.030165 Method MME
+
+S real T clipart Train Ep: 39900 lr0.0029951914737869757 	 Loss Classification: 0.480650 Loss T 0.021149 Method MME
+
+S real T clipart Train Ep: 40000 lr0.0029906975624424408 	 Loss Classification: 0.212127 Loss T 0.033790 Method MME
+
+acc_ori: 77.8598, acc_ifsl: 0.5468, acc_ifsl: 77.8106, acc_fixed: 77.8598, 
+Accuracy_ori: 14239, Accuracy_ifsl: 100, Accuracy_fuse: 14230, Accuracy_fixed: 14239, size: 18288, 
+acc_ori: 76.6667, acc_ifsl: 0.5556, acc_ifsl: 76.9444, acc_fixed: 76.6667, 
+Accuracy_ori: 276, Accuracy_ifsl: 2, Accuracy_fuse: 277, Accuracy_fixed: 276, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.821522 best acc val 76.666667
+saving model
+S real T clipart Train Ep: 40100 lr0.0029862193523140824 	 Loss Classification: 0.280761 Loss T 0.030796 Method MME
+
+S real T clipart Train Ep: 40200 lr0.0029817567573678107 	 Loss Classification: 0.303899 Loss T 0.030306 Method MME
+
+S real T clipart Train Ep: 40300 lr0.0029773096922111057 	 Loss Classification: 0.171423 Loss T 0.023249 Method MME
+
+S real T clipart Train Ep: 40400 lr0.0029728780720869657 	 Loss Classification: 0.317241 Loss T 0.028023 Method MME
+
+S real T clipart Train Ep: 40500 lr0.002968461812867928 	 Loss Classification: 0.212281 Loss T 0.032887 Method MME
+
+acc_ori: 78.0949, acc_ifsl: 0.7655, acc_ifsl: 78.1660, acc_fixed: 78.0949, 
+Accuracy_ori: 14282, Accuracy_ifsl: 140, Accuracy_fuse: 14295, Accuracy_fixed: 14282, size: 18288, 
+acc_ori: 78.0556, acc_ifsl: 0.5556, acc_ifsl: 78.3333, acc_fixed: 78.0556, 
+Accuracy_ori: 281, Accuracy_ifsl: 2, Accuracy_fuse: 282, Accuracy_fixed: 281, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.821522 best acc val 78.055556
+saving model
+S real T clipart Train Ep: 40600 lr0.0029640608310501576 	 Loss Classification: 0.334342 Loss T 0.031485 Method MME
+
+S real T clipart Train Ep: 40700 lr0.002959675043747607 	 Loss Classification: 0.275200 Loss T 0.043430 Method MME
+
+S real T clipart Train Ep: 40800 lr0.0029553043686862315 	 Loss Classification: 0.259807 Loss T 0.023157 Method MME
+
+S real T clipart Train Ep: 40900 lr0.0029509487241982826 	 Loss Classification: 0.186675 Loss T 0.026328 Method MME
+
+S real T clipart Train Ep: 41000 lr0.0029466080292166567 	 Loss Classification: 0.148940 Loss T 0.038397 Method MME
+
+acc_ori: 77.9254, acc_ifsl: 0.6452, acc_ifsl: 77.9254, acc_fixed: 77.9254, 
+Accuracy_ori: 14251, Accuracy_ifsl: 118, Accuracy_fuse: 14251, Accuracy_fixed: 14251, size: 18288, 
+acc_ori: 78.6111, acc_ifsl: 0.2778, acc_ifsl: 78.6111, acc_fixed: 78.6111, 
+Accuracy_ori: 283, Accuracy_ifsl: 1, Accuracy_fuse: 283, Accuracy_fixed: 283, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.821522 best acc val 78.611111
+saving model
+S real T clipart Train Ep: 41100 lr0.0029422822032693125 	 Loss Classification: 0.465202 Loss T 0.023327 Method MME
+
+S real T clipart Train Ep: 41200 lr0.002937971166473745 	 Loss Classification: 0.194904 Loss T 0.030509 Method MME
+
+S real T clipart Train Ep: 41300 lr0.0029336748395315305 	 Loss Classification: 0.285145 Loss T 0.027043 Method MME
+
+S real T clipart Train Ep: 41400 lr0.002929393143722923 	 Loss Classification: 0.280652 Loss T 0.028383 Method MME
+
+S real T clipart Train Ep: 41500 lr0.002925126000901522 	 Loss Classification: 0.085277 Loss T 0.026257 Method MME
+
+acc_ori: 78.0457, acc_ifsl: 0.6070, acc_ifsl: 78.0785, acc_fixed: 78.0457, 
+Accuracy_ori: 14273, Accuracy_ifsl: 111, Accuracy_fuse: 14279, Accuracy_fixed: 14273, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 0.2778, acc_ifsl: 77.7778, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 1, Accuracy_fuse: 280, Accuracy_fixed: 279, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.821522 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 41600 lr0.0029208733334889847 	 Loss Classification: 0.342636 Loss T 0.022395 Method MME
+
+S real T clipart Train Ep: 41700 lr0.0029166350644698118 	 Loss Classification: 0.189472 Loss T 0.035002 Method MME
+
+S real T clipart Train Ep: 41800 lr0.002912411117386185 	 Loss Classification: 0.321998 Loss T 0.019270 Method MME
+
+S real T clipart Train Ep: 41900 lr0.0029082014163328584 	 Loss Classification: 0.321293 Loss T 0.025870 Method MME
+
+S real T clipart Train Ep: 42000 lr0.0029040058859521123 	 Loss Classification: 0.256753 Loss T 0.028221 Method MME
+
+acc_ori: 77.9473, acc_ifsl: 0.7710, acc_ifsl: 77.9801, acc_fixed: 77.9473, 
+Accuracy_ori: 14255, Accuracy_ifsl: 141, Accuracy_fuse: 14261, Accuracy_fixed: 14255, size: 18288, 
+acc_ori: 78.0556, acc_ifsl: 0.5556, acc_ifsl: 77.7778, acc_fixed: 78.0556, 
+Accuracy_ori: 281, Accuracy_ifsl: 2, Accuracy_fuse: 280, Accuracy_fixed: 281, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.821522 best acc val 78.055556
+saving model
+S real T clipart Train Ep: 42100 lr0.002899824451428758 	 Loss Classification: 0.314334 Loss T 0.026859 Method MME
+
+S real T clipart Train Ep: 42200 lr0.002895657038485203 	 Loss Classification: 0.330853 Loss T 0.024694 Method MME
+
+S real T clipart Train Ep: 42300 lr0.0028915035733765655 	 Loss Classification: 0.187965 Loss T 0.029015 Method MME
+
+S real T clipart Train Ep: 42400 lr0.0028873639828858417 	 Loss Classification: 0.209531 Loss T 0.021019 Method MME
+
+S real T clipart Train Ep: 42500 lr0.0028832381943191343 	 Loss Classification: 0.530508 Loss T 0.034017 Method MME
+
+acc_ori: 78.0184, acc_ifsl: 0.4429, acc_ifsl: 78.0020, acc_fixed: 78.0184, 
+Accuracy_ori: 14268, Accuracy_ifsl: 81, Accuracy_fuse: 14265, Accuracy_fixed: 14268, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 0.5556, acc_ifsl: 77.7778, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 2, Accuracy_fuse: 280, Accuracy_fixed: 279, size: 360, 
+current acc test 78.171479 current acc val 76.944444
+best acc test 77.821522 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 42600 lr0.002879126135500922 	 Loss Classification: 0.190770 Loss T 0.023946 Method MME
+
+S real T clipart Train Ep: 42700 lr0.00287502773476939 	 Loss Classification: 0.200186 Loss T 0.033747 Method MME
+
+S real T clipart Train Ep: 42800 lr0.0028709429209718045 	 Loss Classification: 0.168187 Loss T 0.034565 Method MME
+
+S real T clipart Train Ep: 42900 lr0.0028668716234599434 	 Loss Classification: 0.257438 Loss T 0.019370 Method MME
+
+S real T clipart Train Ep: 43000 lr0.0028628137720855718 	 Loss Classification: 0.133018 Loss T 0.037992 Method MME
+
+acc_ori: 78.1769, acc_ifsl: 0.5577, acc_ifsl: 78.1879, acc_fixed: 78.1769, 
+Accuracy_ori: 14297, Accuracy_ifsl: 102, Accuracy_fuse: 14299, Accuracy_fixed: 14297, size: 18288, 
+acc_ori: 76.3889, acc_ifsl: 0.2778, acc_ifsl: 76.3889, acc_fixed: 76.3889, 
+Accuracy_ori: 275, Accuracy_ifsl: 1, Accuracy_fuse: 275, Accuracy_fixed: 275, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 76.388889
+saving model
+S real T clipart Train Ep: 43100 lr0.002858769297195967 	 Loss Classification: 0.163840 Loss T 0.020101 Method MME
+
+S real T clipart Train Ep: 43200 lr0.0028547381296294984 	 Loss Classification: 0.141036 Loss T 0.029759 Method MME
+
+S real T clipart Train Ep: 43300 lr0.0028507202007112434 	 Loss Classification: 0.338438 Loss T 0.029603 Method MME
+
+S real T clipart Train Ep: 43400 lr0.002846715442248662 	 Loss Classification: 0.222896 Loss T 0.031735 Method MME
+
+S real T clipart Train Ep: 43500 lr0.00284272378652731 	 Loss Classification: 0.179280 Loss T 0.023141 Method MME
+
+acc_ori: 78.1059, acc_ifsl: 0.4703, acc_ifsl: 78.0129, acc_fixed: 78.1059, 
+Accuracy_ori: 14284, Accuracy_ifsl: 86, Accuracy_fuse: 14267, Accuracy_fixed: 14284, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 0.2778, acc_ifsl: 77.5000, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 1, Accuracy_fuse: 279, Accuracy_fixed: 279, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 43600 lr0.002838745166306603 	 Loss Classification: 0.118200 Loss T 0.027754 Method MME
+
+S real T clipart Train Ep: 43700 lr0.002834779514815624 	 Loss Classification: 0.182618 Loss T 0.025832 Method MME
+
+S real T clipart Train Ep: 43800 lr0.002830826765748974 	 Loss Classification: 0.242769 Loss T 0.027152 Method MME
+
+S real T clipart Train Ep: 43900 lr0.0028268868532626687 	 Loss Classification: 0.314424 Loss T 0.030467 Method MME
+
+S real T clipart Train Ep: 44000 lr0.0028229597119700817 	 Loss Classification: 0.204254 Loss T 0.020755 Method MME
+
+acc_ori: 78.0512, acc_ifsl: 0.4703, acc_ifsl: 78.1004, acc_fixed: 78.0512, 
+Accuracy_ori: 14274, Accuracy_ifsl: 86, Accuracy_fuse: 14283, Accuracy_fixed: 14274, size: 18288, 
+acc_ori: 77.2222, acc_ifsl: 0.8333, acc_ifsl: 77.5000, acc_fixed: 77.2222, 
+Accuracy_ori: 278, Accuracy_ifsl: 3, Accuracy_fuse: 279, Accuracy_fixed: 278, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 77.222222
+saving model
+S real T clipart Train Ep: 44100 lr0.002819045276937925 	 Loss Classification: 0.337640 Loss T 0.028146 Method MME
+
+S real T clipart Train Ep: 44200 lr0.002815143483682275 	 Loss Classification: 0.210193 Loss T 0.023678 Method MME
+
+S real T clipart Train Ep: 44300 lr0.0028112542681646446 	 Loss Classification: 0.348313 Loss T 0.020145 Method MME
+
+S real T clipart Train Ep: 44400 lr0.0028073775667880876 	 Loss Classification: 0.114071 Loss T 0.028072 Method MME
+
+S real T clipart Train Ep: 44500 lr0.0028035133163933517 	 Loss Classification: 0.176180 Loss T 0.030768 Method MME
+
+acc_ori: 78.1277, acc_ifsl: 0.6398, acc_ifsl: 78.1441, acc_fixed: 78.1277, 
+Accuracy_ori: 14288, Accuracy_ifsl: 117, Accuracy_fuse: 14291, Accuracy_fixed: 14288, size: 18288, 
+acc_ori: 77.2222, acc_ifsl: 0.8333, acc_ifsl: 78.0556, acc_fixed: 77.2222, 
+Accuracy_ori: 278, Accuracy_ifsl: 3, Accuracy_fuse: 281, Accuracy_fixed: 278, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 77.222222
+saving model
+S real T clipart Train Ep: 44600 lr0.002799661454255073 	 Loss Classification: 0.152431 Loss T 0.029442 Method MME
+
+S real T clipart Train Ep: 44700 lr0.0027958219180780008 	 Loss Classification: 0.142338 Loss T 0.016594 Method MME
+
+S real T clipart Train Ep: 44800 lr0.002791994645993276 	 Loss Classification: 0.183354 Loss T 0.033980 Method MME
+
+S real T clipart Train Ep: 44900 lr0.0027881795765547345 	 Loss Classification: 0.088916 Loss T 0.033827 Method MME
+
+S real T clipart Train Ep: 45000 lr0.0027843766487352603 	 Loss Classification: 0.294702 Loss T 0.029118 Method MME
+
+acc_ori: 78.0566, acc_ifsl: 0.5523, acc_ifsl: 78.0457, acc_fixed: 78.0566, 
+Accuracy_ori: 14275, Accuracy_ifsl: 101, Accuracy_fuse: 14273, Accuracy_fixed: 14275, size: 18288, 
+acc_ori: 76.6667, acc_ifsl: 0.2778, acc_ifsl: 76.1111, acc_fixed: 76.6667, 
+Accuracy_ori: 276, Accuracy_ifsl: 1, Accuracy_fuse: 274, Accuracy_fixed: 276, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 76.666667
+saving model
+S real T clipart Train Ep: 45100 lr0.0027805858019231693 	 Loss Classification: 0.216252 Loss T 0.029567 Method MME
+
+S real T clipart Train Ep: 45200 lr0.0027768069759186364 	 Loss Classification: 0.282790 Loss T 0.029424 Method MME
+
+S real T clipart Train Ep: 45300 lr0.002773040110930155 	 Loss Classification: 0.100285 Loss T 0.034591 Method MME
+
+S real T clipart Train Ep: 45400 lr0.0027692851475710355 	 Loss Classification: 0.152921 Loss T 0.035685 Method MME
+
+S real T clipart Train Ep: 45500 lr0.0027655420268559413 	 Loss Classification: 0.244482 Loss T 0.037404 Method MME
+
+acc_ori: 77.9692, acc_ifsl: 0.6671, acc_ifsl: 77.9418, acc_fixed: 77.9692, 
+Accuracy_ori: 14259, Accuracy_ifsl: 122, Accuracy_fuse: 14254, Accuracy_fixed: 14259, size: 18288, 
+acc_ori: 78.3333, acc_ifsl: 1.1111, acc_ifsl: 78.3333, acc_fixed: 78.3333, 
+Accuracy_ori: 282, Accuracy_ifsl: 4, Accuracy_fuse: 282, Accuracy_fixed: 282, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 78.333333
+saving model
+S real T clipart Train Ep: 45600 lr0.0027618106901974556 	 Loss Classification: 0.214221 Loss T 0.036776 Method MME
+
+S real T clipart Train Ep: 45700 lr0.002758091079402693 	 Loss Classification: 0.264788 Loss T 0.036222 Method MME
+
+S real T clipart Train Ep: 45800 lr0.002754383136669936 	 Loss Classification: 0.122977 Loss T 0.022573 Method MME
+
+S real T clipart Train Ep: 45900 lr0.00275068680458531 	 Loss Classification: 0.157367 Loss T 0.030914 Method MME
+
+S real T clipart Train Ep: 46000 lr0.002747002026119495 	 Loss Classification: 0.133352 Loss T 0.017256 Method MME
+
+acc_ori: 78.1059, acc_ifsl: 0.7491, acc_ifsl: 78.1660, acc_fixed: 78.1059, 
+Accuracy_ori: 14284, Accuracy_ifsl: 137, Accuracy_fuse: 14295, Accuracy_fixed: 14284, size: 18288, 
+acc_ori: 77.2222, acc_ifsl: 0.5556, acc_ifsl: 77.7778, acc_fixed: 77.2222, 
+Accuracy_ori: 278, Accuracy_ifsl: 2, Accuracy_fuse: 280, Accuracy_fixed: 278, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 77.222222
+saving model
+S real T clipart Train Ep: 46100 lr0.00274332874462447 	 Loss Classification: 0.318847 Loss T 0.030164 Method MME
+
+S real T clipart Train Ep: 46200 lr0.0027396669038302853 	 Loss Classification: 0.257330 Loss T 0.021100 Method MME
+
+S real T clipart Train Ep: 46300 lr0.002736016447841875 	 Loss Classification: 0.142926 Loss T 0.033547 Method MME
+
+S real T clipart Train Ep: 46400 lr0.002732377321135899 	 Loss Classification: 0.114629 Loss T 0.021819 Method MME
+
+S real T clipart Train Ep: 46500 lr0.0027287494685576162 	 Loss Classification: 0.129231 Loss T 0.032614 Method MME
+
+acc_ori: 78.1715, acc_ifsl: 0.4648, acc_ifsl: 78.1168, acc_fixed: 78.1715, 
+Accuracy_ori: 14296, Accuracy_ifsl: 85, Accuracy_fuse: 14286, Accuracy_fixed: 14296, size: 18288, 
+acc_ori: 77.2222, acc_ifsl: 0.5556, acc_ifsl: 77.7778, acc_fixed: 77.2222, 
+Accuracy_ori: 278, Accuracy_ifsl: 2, Accuracy_fuse: 280, Accuracy_fixed: 278, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 77.222222
+saving model
+S real T clipart Train Ep: 46600 lr0.0027251328353177914 	 Loss Classification: 0.319864 Loss T 0.028873 Method MME
+
+S real T clipart Train Ep: 46700 lr0.0027215273669896306 	 Loss Classification: 0.107618 Loss T 0.022897 Method MME
+
+S real T clipart Train Ep: 46800 lr0.002717933009505752 	 Loss Classification: 0.262887 Loss T 0.022868 Method MME
+
+S real T clipart Train Ep: 46900 lr0.0027143497091551842 	 Loss Classification: 0.122875 Loss T 0.021452 Method MME
+
+S real T clipart Train Ep: 47000 lr0.0027107774125803953 	 Loss Classification: 0.182982 Loss T 0.024079 Method MME
+
+acc_ori: 78.1496, acc_ifsl: 0.7874, acc_ifsl: 78.1332, acc_fixed: 78.1496, 
+Accuracy_ori: 14292, Accuracy_ifsl: 144, Accuracy_fuse: 14289, Accuracy_fixed: 14292, size: 18288, 
+acc_ori: 78.3333, acc_ifsl: 0.2778, acc_ifsl: 78.3333, acc_fixed: 78.3333, 
+Accuracy_ori: 282, Accuracy_ifsl: 1, Accuracy_fuse: 282, Accuracy_fixed: 282, size: 360, 
+current acc test 78.176947 current acc val 76.388889
+best acc test 77.821522 best acc val 78.333333
+saving model
+S real T clipart Train Ep: 47100 lr0.0027072160667743496 	 Loss Classification: 0.154875 Loss T 0.015587 Method MME
+
+S real T clipart Train Ep: 47200 lr0.0027036656190776 	 Loss Classification: 0.246944 Loss T 0.033178 Method MME
+
+S real T clipart Train Ep: 47300 lr0.0027001260171754054 	 Loss Classification: 0.217481 Loss T 0.034136 Method MME
+
+S real T clipart Train Ep: 47400 lr0.0026965972090948766 	 Loss Classification: 0.489234 Loss T 0.029917 Method MME
+
+S real T clipart Train Ep: 47500 lr0.00269307914320215 	 Loss Classification: 0.094509 Loss T 0.030214 Method MME
+
+acc_ori: 78.2535, acc_ifsl: 0.6890, acc_ifsl: 78.1934, acc_fixed: 78.2535, 
+Accuracy_ori: 14311, Accuracy_ifsl: 126, Accuracy_fuse: 14300, Accuracy_fixed: 14311, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 0.5556, acc_ifsl: 77.7778, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 2, Accuracy_fuse: 280, Accuracy_fixed: 279, size: 360, 
+current acc test 78.253500 current acc val 77.500000
+best acc test 77.821522 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 47600 lr0.002689571768199595 	 Loss Classification: 0.175524 Loss T 0.028166 Method MME
+
+S real T clipart Train Ep: 47700 lr0.0026860750331230425 	 Loss Classification: 0.333898 Loss T 0.027362 Method MME
+
+S real T clipart Train Ep: 47800 lr0.0026825888873390456 	 Loss Classification: 0.156013 Loss T 0.036239 Method MME
+
+S real T clipart Train Ep: 47900 lr0.002679113280542164 	 Loss Classification: 0.215401 Loss T 0.028504 Method MME
+
+S real T clipart Train Ep: 48000 lr0.0026756481627522805 	 Loss Classification: 0.141838 Loss T 0.023514 Method MME
+
+acc_ori: 78.1824, acc_ifsl: 0.5304, acc_ifsl: 78.1551, acc_fixed: 78.1824, 
+Accuracy_ori: 14298, Accuracy_ifsl: 97, Accuracy_fuse: 14293, Accuracy_fixed: 14298, size: 18288, 
+acc_ori: 77.5000, acc_ifsl: 0.0000, acc_ifsl: 77.2222, acc_fixed: 77.5000, 
+Accuracy_ori: 279, Accuracy_ifsl: 0, Accuracy_fuse: 278, Accuracy_fixed: 279, size: 360, 
+current acc test 78.253500 current acc val 77.500000
+best acc test 77.821522 best acc val 77.500000
+saving model
+S real T clipart Train Ep: 48100 lr0.002672193484311935 	 Loss Classification: 0.131557 Loss T 0.037717 Method MME
+
+S real T clipart Train Ep: 48200 lr0.0026687491958836975 	 Loss Classification: 0.201031 Loss T 0.031138 Method MME
+
+S real T clipart Train Ep: 48300 lr0.002665315248447555 	 Loss Classification: 0.216747 Loss T 0.028630 Method MME
+
+S real T clipart Train Ep: 48400 lr0.002661891593298331 	 Loss Classification: 0.215979 Loss T 0.032153 Method MME
+
+S real T clipart Train Ep: 48500 lr0.002658478182043129 	 Loss Classification: 0.266670 Loss T 0.015727 Method MME
+
+acc_ori: 78.1605, acc_ifsl: 0.4812, acc_ifsl: 78.1223, acc_fixed: 78.1605, 
+Accuracy_ori: 14294, Accuracy_ifsl: 88, Accuracy_fuse: 14287, Accuracy_fixed: 14294, size: 18288, 
+acc_ori: 77.2222, acc_ifsl: 0.5556, acc_ifsl: 77.5000, acc_fixed: 77.2222, 
+Accuracy_ori: 278, Accuracy_ifsl: 2, Accuracy_fuse: 279, Accuracy_fixed: 278, size: 360, 
+current acc test 78.253500 current acc val 77.500000
+best acc test 77.821522 best acc val 77.222222
+saving model
+S real T clipart Train Ep: 48600 lr0.0026550749665988005 	 Loss Classification: 0.115671 Loss T 0.019805 Method MME
+
+S real T clipart Train Ep: 48700 lr0.002651681899189436 	 Loss Classification: 0.220818 Loss T 0.024371 Method MME
+
+S real T clipart Train Ep: 48800 lr0.0026482989323438856 	 Loss Classification: 0.169613 Loss T 0.017479 Method MME
+
+S real T clipart Train Ep: 48900 lr0.0026449260188932985 	 Loss Classification: 0.312206 Loss T 0.020398 Method MME
+
+S real T clipart Train Ep: 49000 lr0.0026415631119686904 	 Loss Classification: 0.270999 Loss T 0.029545 Method MME
+
+acc_ori: 78.0785, acc_ifsl: 0.4156, acc_ifsl: 78.1715, acc_fixed: 78.0785, 
+Accuracy_ori: 14279, Accuracy_ifsl: 76, Accuracy_fuse: 14296, Accuracy_fixed: 14279, size: 18288, 
+acc_ori: 78.0556, acc_ifsl: 0.2778, acc_ifsl: 78.3333, acc_fixed: 78.0556, 
+Accuracy_ori: 281, Accuracy_ifsl: 1, Accuracy_fuse: 282, Accuracy_fixed: 281, size: 360, 
+current acc test 78.253500 current acc val 77.500000
+best acc test 77.821522 best acc val 78.055556
+saving model
+S real T clipart Train Ep: 49100 lr0.0026382101649985324 	 Loss Classification: 0.340430 Loss T 0.037654 Method MME
+
+S real T clipart Train Ep: 49200 lr0.002634867131706361 	 Loss Classification: 0.251472 Loss T 0.033575 Method MME
+
+S real T clipart Train Ep: 49300 lr0.002631533966108419 	 Loss Classification: 0.169572 Loss T 0.030360 Method MME
+
+S real T clipart Train Ep: 49400 lr0.0026282106225113118 	 Loss Classification: 0.097507 Loss T 0.022129 Method MME
+
+S real T clipart Train Ep: 49500 lr0.0026248970555096873 	 Loss Classification: 0.174667 Loss T 0.041214 Method MME
+
+acc_ori: 78.0840, acc_ifsl: 0.4757, acc_ifsl: 78.1441, acc_fixed: 78.0840, 
+Accuracy_ori: 14280, Accuracy_ifsl: 87, Accuracy_fuse: 14291, Accuracy_fixed: 14280, size: 18288, 
+acc_ori: 76.9444, acc_ifsl: 0.2778, acc_ifsl: 77.2222, acc_fixed: 76.9444, 
+Accuracy_ori: 277, Accuracy_ifsl: 1, Accuracy_fuse: 278, Accuracy_fixed: 277, size: 360, 
+current acc test 78.253500 current acc val 77.500000
+best acc test 77.821522 best acc val 76.944444
+saving model
+S real T clipart Train Ep: 49600 lr0.0026215932199839427 	 Loss Classification: 0.204185 Loss T 0.027394 Method MME
+
+S real T clipart Train Ep: 49700 lr0.002618299071097948 	 Loss Classification: 0.206497 Loss T 0.028653 Method MME
+
+S real T clipart Train Ep: 49800 lr0.002615014564296798 	 Loss Classification: 0.376566 Loss T 0.027999 Method MME
+
+S real T clipart Train Ep: 49900 lr0.0026117396553045746 	 Loss Classification: 0.153956 Loss T 0.021180 Method MME
+
+S real T clipart Train Ep: 50000 lr0.0026084743001221454 	 Loss Classification: 0.281754 Loss T 0.027851 Method MME
+
+acc_ori: 78.1551, acc_ifsl: 0.3882, acc_ifsl: 78.1004, acc_fixed: 78.1551, 
+Accuracy_ori: 14293, Accuracy_ifsl: 71, Accuracy_fuse: 14283, Accuracy_fixed: 14293, size: 18288, 
+acc_ori: 76.9444, acc_ifsl: 0.0000, acc_ifsl: 77.7778, acc_fixed: 76.9444, 
+Accuracy_ori: 277, Accuracy_ifsl: 0, Accuracy_fuse: 280, Accuracy_fixed: 277, size: 360, 
+current acc test 78.253500 current acc val 77.500000
+best acc test 77.821522 best acc val 76.944444
+saving model

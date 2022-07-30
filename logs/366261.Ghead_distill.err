@@ -1,0 +1,8 @@
+/usr/local/sbin/startdocker: line 3: /tmp/startdocker.log: Permission denied
+/usr/local/sbin/startdocker: line 79: /tmp/startdocker.log: Permission denied
+train_sampling.py:394: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out1_soft=F.softmax(out1_ori)
+/ghome/tuky/Summer/utils/loss.py:63: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out_t1 = F.softmax(out_t1)#.reshape(out_t1.shape[0],out_t1.shape[1],-1)
+/ghome/tuky/Summer/utils/loss.py:64: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out_t1_ifsl = F.softmax(out_t1_ifsl)#.reshape(out_t1.shape[0],out_t1.shape[1],-1)

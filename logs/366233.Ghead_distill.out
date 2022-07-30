@@ -1,0 +1,10 @@
+Time is Fri Jul 22 17:13:06 CST 2022
+Directory is /ghome/tuky
+This job runs on following nodes:
+Node:G172
+Gpus:G172-gpu5
+CUDA_VISIBLE_DEVICES:5
+Dataset multi Source real Target clipart Labeled num perclass 3 Network resnet34
+126 classes in this dataset
+S real T clipart Train Ep: 0 lr0.01 	 Loss Classification: 5.337730 Loss T 0.468510 Method MME
+

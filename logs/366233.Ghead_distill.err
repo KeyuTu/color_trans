@@ -1,0 +1,48 @@
+Unable to find image 'bit:5000/zhaorj_torch1.7:latest' locally
+latest: Pulling from zhaorj_torch1.7
+23884877105a: Already exists
+bc38caa0f5b9: Already exists
+2910811b6c42: Already exists
+36505266dcc6: Already exists
+307d9399406a: Already exists
+dea2d0e2eb09: Already exists
+9412c176f4b9: Already exists
+6e417859a841: Already exists
+37377cbf1823: Already exists
+c2c77816c94e: Already exists
+88c437869266: Pulling fs layer
+88c437869266: Verifying Checksum
+88c437869266: Download complete
+88c437869266: Pull complete
+Digest: sha256:80e4e06d1991f8c46d6df14c74926f59709efe864a50a15e0d9c92cc9dfc63f8
+Status: Downloaded newer image for bit:5000/zhaorj_torch1.7:latest
+train_sampling.py:394: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out1_soft=F.softmax(out1_ori)
+/ghome/tuky/Summer/utils/loss.py:63: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out_t1 = F.softmax(out_t1)#.reshape(out_t1.shape[0],out_t1.shape[1],-1)
+/ghome/tuky/Summer/utils/loss.py:64: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out_t1_ifsl = F.softmax(out_t1_ifsl)#.reshape(out_t1.shape[0],out_t1.shape[1],-1)
+Traceback (most recent call last):
+  File "train_sampling.py", line 730, in <module>
+    train(num_instance_2=num_instance_1)
+  File "train_sampling.py", line 327, in train
+    output = G(data)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/ghome/tuky/Summer/model/resnet.py", line 193, in forward
+    x = self.layer4(x)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/container.py", line 117, in forward
+    input = module(input)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/ghome/tuky/Summer/model/resnet.py", line 80, in forward
+    out = self.conv2(out)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/conv.py", line 423, in forward
+    return self._conv_forward(input, self.weight)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/conv.py", line 419, in _conv_forward
+    return F.conv2d(input, weight, self.bias, self.stride,
+RuntimeError: CUDA out of memory. Tried to allocate 16.00 MiB (GPU 0; 10.76 GiB total capacity; 9.68 GiB already allocated; 12.56 MiB free; 9.73 GiB reserved in total by PyTorch)
